@@ -1,2 +1,0 @@
-# Tervetuloa!
-test
