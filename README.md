@@ -14,6 +14,9 @@ koodia
 **muuta**
 *toista*
 
+![Boquete]({{site.baseurl}}/IMG_6034.JPG)
+
+
 
 | Option | Description |
 | ------ | ----------- |
