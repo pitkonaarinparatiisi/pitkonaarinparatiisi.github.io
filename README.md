@@ -1,2 +1,1 @@
-# pitkonaarinparatiisi.github.io
-test
+# Tervetuloa Pitkonäärin Paratiisiin!
