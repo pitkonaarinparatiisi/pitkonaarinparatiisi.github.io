@@ -39,13 +39,13 @@ Tiedot tulossa.
 Täällä on yleensä käytössä kaasuhellat, sekä käyttövesi lämpiää usein kaasulla. Kaasua kuluu yhdellä hengellä noin 1 säiliö kuussa, n. 5€.
 
 ### Kulkeminen
-Taksimatka Boquetessa/lähialueilla 2-6€. Bussi lähimpään kaupunkiin Davidiin (50km) 1,5€. Auton hankkiminen halvempaa kuin Suomessa, koska täällä ei ole "väliaikaista" autoveroa.
+Taksimatka Boquetessa/lähialueilla 2-6€. Bussi lähimpään kaupunkiin Davidiin (50km) 1,5€. Auton hankkiminen on halvempaa kuin Suomessa, koska autoilun verotus on huomattavasti kevyempää.
 
 ### Bensan hinta
-95E maksaa n. 0,65€/l
+95E maksaa n. 0,65€/l.
 
 ### Alkoholi
-Kalja kaupassa reilun 1€/litra (~50 senttiä/tölkki), tiukka viina (juotavan makuinen paikallinen gin) vähän yli 5€/litra. Ravintolassa kalja 1.5€. Viinit suhteessa kalliimpia, mutta halvempia kuin Suomessa.
+Kalja maksaa kaupassa reilun 1€/litra (~50 dollarisenttiä/tölkki), tiukka viina (ihan juotavan makuinen paikallinen gin) vähän yli 5€/litra. Ravintolassa kalja 1.5€. Viinit ovat näihin verrattuna suhteessa kalliimpia, mutta kuitenkin halvempia kuin Suomessa.
 
 ### Terveysvakuutus
 Todennäköisesti sisältyy matkavakuutukseesi. Huomioi kuitenkin että jos aiot "irtisanoa itsesi" pysyvästi Suomen verotuksen piiristä, niin silloin et ole myöskään suomalaisen terveydenhuollon piirissä. Asia hoituu yksityisellä terveysvakuutuksella, n. 100€/kk (perusterveellä nuorehkolla ihmisellä).
