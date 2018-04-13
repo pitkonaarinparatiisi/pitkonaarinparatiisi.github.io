@@ -6,11 +6,11 @@ Täällä Boquetessa on kesä 365 päivää vuodessa, verotus (erityisesti krypt
 
 Olemme Suomesta lähteneitä Bitcoin-harrastajia, yrittäjiä ja pitkän linjan travellereita. Olemme kiertäneet maailmaa yhteensä yli 16 vuoden ajan, samalla pitäen silmät auki paikoille joissa voisi asua pidempäänkin. Boquete on listan selkeä ykkönen, ehdottomasti paras paikka maailmassa.
 
-## Myyttekö jotain?
+## Kaupusteletteko jotain? Onko tämä taas jokin virtuaalivaluuttahuijaus?
 
 Emme myy mitään, jaamme vain tietoa ja ideoita. Tämä sivusto on tehty helpottamaan tiedon jakamista.
 
-Meillä on myös tavoitteena rakentaa tänne pikkuhiljaa suomalaisista (erityisesti Bitcoin-harrastajista) koostuvaa yhteisöä. Muutkin kuin Bitcoin-harrastajat ovat tietysti tervetulleita. Erityisesti paikkariippumattomille yrittäjille tämä on erittäin hyvä paikka. Jos meitä olisi täällä enemmän, niin voisimme jakaa monia kustannuksia ja tehdä toistemme elämästä monin eri tavoin helpompaa ja laadukkaampaa.
+Meillä on tavoitteena rakentaa pikkuhiljaa tänne Boqueteen suomalaisista (erityisesti Bitcoin-harrastajista) koostuvaa yhteisöä. Muutkin kuin Bitcoin-harrastajat ovat tietysti tervetulleita. Erityisesti paikkariippumattomille yrittäjille tämä on erittäin hyvä paikka. Jos meitä olisi täällä enemmän, niin voisimme jakaa monia kustannuksia ja tehdä toistemme elämästä monin eri tavoin helpompaa ja laadukkaampaa.
 
 Voi myös käydä niin, että moni meistä saavuttaa elintason jossa lisärahan tekeminen ei enää ole mielekäs tavoite. Pelkkä palmun alla makailu käy kuitenkin tylsäksi parin kuukauden jälkeen, joten elämässä pitää olla jotakin rakentavaa sisältöä.
 
