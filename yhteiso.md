@@ -30,7 +30,8 @@ Lue lisää laskelmista ja ideoista, mitä kaikkea täällä voisi olla mahdolli
 
 Tähän artikkeliin on listattuna muutamia esimerkkejä/ideoita sekä laskelmia helposti jaettavista hankinnoista. Pienempiäkin (alle 1000e arvoisia) resursseja voi tietysti jakaa, mutta niitä lienee turha listata tänne erikseen. Jokainen vastaa kuitenkin ensisijaisesti itsestään/perheestään, koska emme ole sosialistien paratiisi. 
 
-##Disclaimer: Jos olet niin tyhmä, että pidät laskelmissa olevia Bitcoinin laskennallisia hintaesimerkkejä jonkinlaisena lupauksena tulevista hintatasoista, niin lienee parempi että menet [jonnekin muualle](http://www.vasemmisto.fi/ "Vasemmisto - ihmisten huijaamista jo vuodesta miekka!"). Tässä sinulle sijoitusneuvo: Suosittelemme että muodostat itse oman mielipiteesi Bitcoinin menestymisen mahdollisuuksista. Jos hinta laskee, niin voit taputella itseäsi selkään kun et laittanut penniäkään kiinni "nörttien leikkirahaan". Tai jos hinta nousee, niin voit sitten syyttää anonyymien nettikirjoittajien sijaan itseäsi kun et ostanut ajoissa. Jokainen hodlaa itse omat coininsa.
+## Disclaimer: 
+Jos olet niin tyhmä, että pidät laskelmissa olevia Bitcoinin laskennallisia hintaesimerkkejä jonkinlaisena lupauksena tulevista hintatasoista, niin lienee parempi että menet [jonnekin muualle](http://www.vasemmisto.fi/ "Vasemmisto - ihmisten huijaamista jo vuodesta miekka!"). Tässä sinulle sijoitusneuvo: Suosittelemme että muodostat itse oman mielipiteesi Bitcoinin menestymisen mahdollisuuksista. Jos hinta laskee, niin voit taputella itseäsi selkään kun et laittanut penniäkään kiinni "nörttien leikkirahaan". Tai jos hinta nousee, niin voit sitten syyttää anonyymien nettikirjoittajien sijaan itseäsi kun et ostanut ajoissa. **Jokainen hodlaa itse omat coininsa.**
 
 ## Laskelmien selitykset
 
