@@ -1,6 +1,6 @@
 # Oleskelulupa, verovapaus ja kansalaisuus
 
-Muuttamalla Panamaan ja anomalla oleskelulupaa, joka on suoraan pysyvä Suomen kansalaisille, saavutat useita etuja ilman haittapuolia. Kustannukset ovat suhteessa pienet muihin verovapaisiin maihin ja prosessi on nopea sekä suoraviivainen. **Huomioithan tätä lukiessasi, että pysyvä oleskelulupa ei ole edellytys tänne muuttamiselle**. Monet ovat asuneet täällä vuosien ajan ilman pysyvää oleskelulupaa, väliaikainen oleskelulupa 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin.
+Muuttamalla Panamaan ja anomalla oleskelulupaa, joka on suoraan pysyvä Suomen kansalaisille, saavutat useita etuja ilman haittapuolia. Kustannukset ovat suhteessa pienet muihin verovapaisiin maihin ja prosessi on nopea sekä suoraviivainen. **Huomioithan tätä lukiessasi, että pysyvä oleskelulupa ei ole edellytys tänne muuttamiselle**. Monet ovat asuneet täällä vuosien ajan ilman pysyvää oleskelulupaa, väliaikainen "oleskelulupa" eli turistiviisumi 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin.
 
 ## Oleskeluluvan edut
 
