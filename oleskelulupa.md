@@ -1,6 +1,6 @@
 # Oleskelulupa, verovapaus ja kansalaisuus
 
-Muuttamalla Panamaan ja anomalla oleskelulupaa, joka on suoraan pysyvä Suomen kansalaisille, saavutat useita etuja ilman haittapuolia. Kustannukset ovat suhteessa pienet muihin verovapaisiin maihin ja prosessi on nopea sekä suoraviivainen.
+Muuttamalla Panamaan ja anomalla oleskelulupaa, joka on suoraan pysyvä Suomen kansalaisille, saavutat useita etuja ilman haittapuolia. Kustannukset ovat suhteessa pienet muihin verovapaisiin maihin ja prosessi on nopea sekä suoraviivainen. **Huomioithan tätä lukiessasi, että pysyvä oleskelulupa ei ole edellytys tänne muuttamiselle**. Monet ovat asuneet täällä vuosien ajan ilman pysyvää oleskelulupaa, väliaikainen oleskelulupa 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin.
 
 ## Oleskeluluvan edut
 
@@ -9,8 +9,6 @@ Muuttamalla Panamaan ja anomalla oleskelulupaa, joka on suoraan pysyvä Suomen k
 Panama ei verota ulkomailta ansaittuja palkka-, eikä pääomatuloja. Paikallinen ALV on 7% ja se ei koske ruokakaupasta ostettua ruokaa. Joten maksat veroja täällä vain käyttötavaroista. Käytännössä kokonaisveroasteesi jää 3-4% luokkaan riippuen kulutustottumuksistasi.
 
 Saatuasi oleskeluluvan voit hakea Suomen verottajalta verovapautta ja olet laillisesti verovapaa itsenäinen yksilö joka päättää itse omista asioistaan.
-
-Ennen virallista verovapautta Suomesta Panamassa saatujen tulojesi ilmoittaminen on omantunnon asia, sillä Panaman tiukka pankkisalaisuus takaa sen, ettei tietoja Suomeen asti mene kuin vapaaehtoisesti ilmoittamalla.
 
 ### Henkilökortti
 
@@ -24,11 +22,11 @@ Suomi on ollut mukana useissa sodissa ja on täysin mahdollista, että joutuu vi
 
 Mahdollinen ylivelkaantumisesta johtuva kansainvälinen talouskriisi heikentäisi Suomessa oloja merkittävästi. Ruoantuotannon omavaraisuudesta on luovuttu ja omaa valuuttaa kun ei ole, niin kansainvälisestä kaupankäynnistä voi tulla haastavaa.
 
-Viimeisin esimerkki mitä talouskriisi voi maalle aiheuttaa on Venezuela. Vaikka riskit Suomen kohdalla olisivat miten pienet, niin mahdotonta etteikö Suomessa olot vielä joskus huonontuisi.
+Viimeisin esimerkki mitä talouskriisi voi maalle aiheuttaa on Venezuela. Vaikka riskit Suomen kohdalla olisivat hyvin pienet, niin ei ole mahdotonta etteikö Suomessa olot vielä joskus huonontuisi.
 
 ### Vakuutus väestönhallinnan varalta
 
-Mikäli Suomen valtio jostain syystä eväisi passisi, olisi sinulla kuitenkin aina toinen matkustusasiakirja jolla voit liikkua vapaasti. Syitä passin eväämiseen voi olla esim. valtiota kohtaava kriisi (sotilaallinen, taloudellinen, kultutaudit) tai henkilökohtainen kuten Edward Snowdewnilla tai Julian Assangella.
+Mikäli Suomen valtio jostain syystä eväisi passisi, olisi sinulla kuitenkin aina toinen matkustusasiakirja jolla voit liikkua vapaasti. Syitä passin eväämiseen voi olla esim. valtiota kohtaava kriisi (sotilaallinen, taloudellinen, kulkutaudit) tai henkilökohtainen kuten Edward Snowdewnilla tai Julian Assangella.
 
 ### Poliittinen riippumattomuus
 
@@ -56,7 +54,7 @@ Väestörekisteriote ja Apostille-todistukset maksoivat yhteensä 35€.
 Ennen kuin voit hakea oleskelupaa sinulla täytyy olla todiste osoitteesta täällä. Käytännössä se tarkoittaa joko laskua Internet-yhteydestä tai sähkölaskua. Saat ne vuokraamalla asunnon ja tilaamalla palvelut itsellesi.
 
 #### Pankkitili
-Tarvitset myös todistuksen paikallisesta pankista, että olet taloudellisesti kykeneväinen elämään täällä. Tilin avaus kestää n. 2 viikkoa jonka jälkeen talletat vähintään $5 000 dollaria tilille ja pyydät tiliotteen.
+Tarvitset myös todistuksen paikallisesta pankista, että olet taloudellisesti kykeneväinen elämään täällä. Tilin avaus kestää n. 2 viikkoa jonka jälkeen talletat vähintään $5 000 dollaria tilille ja pyydät tiliotteen. Rahoja ei tarvitse jättää tilille makaamaan, eli voit uudelleensijoittaa ne oleskeluluvan saatuasi.
 
 #### Taloudellinen side
 Perustat paikallisen yrityksen, joka toimii todistuksena, että sinulla on taloudelliset siteet maahan. Perustaminen maksaa n. $1 200 dollaria ja kestää muutaman viikon. Varsinaista liiketoimintaa yrityksellä ei tarvitse harjoittaa.
@@ -67,8 +65,8 @@ Tarvitset terveystodistuksen, joka maksaa $25 dollaria ja sen voi hakea paikalli
 
 ### Hakeminen
 
-Oleskelupa haetaan oleskelulupahakemuksella, johon laitetaan liitteeksi hankitut dokumentit. Kuukauden päästä saat väliakaisen henkilökortin, joka oikeuttaa maassaoloon ja 3-4kk päästä saat pysyvän oleskeluluvan. Pysyvän oleskeluluvan säilymisen ehtona on vuosittainen käynti maassa.
+Oleskelupa haetaan oleskelulupahakemuksella, johon laitetaan liitteeksi hankitut dokumentit. Kuukauden päästä saat väliaikaisen henkilökortin, joka oikeuttaa maassaoloon ja 3-4kk päästä saat pysyvän oleskeluluvan. Pysyvän oleskeluluvan säilymisen ehtona on vuosittainen käynti maassa.
 
 ## Kansalaisuus
 
-Viiden vuoden jälkeen pysyvän oleskeluluvan saamisesta voit hakea kansalaisuutta ja saada passin. Mikäli oleskelet maassa tämän ajan, et tarvitse Suomen passia enää mihinkään.
+Viiden vuoden jälkeen pysyvän oleskeluluvan saamisesta voit hakea kansalaisuutta ja saada passin. Mikäli oleskelet maassa tämän ajan, et välttämättä tarvitse Suomen passia enää mihinkään, vaikka se tietenkin tekee maailmalla matkustelusta helpompaa.
