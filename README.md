@@ -23,9 +23,7 @@ Täällä voit säästää verorahat ensin tukemaan omaa hyvinvointiasi, ja kun 
 
 ### Minkälaista tietoa täältä sitten löytää?
 
-Yritämme kerätä tänne kaiken oleellisen tiedon Suomesta Boqueteen muuttamista miettiville. Artikkeleita tulee lisää. Jos haluat lisätietoa tai olet jo tosissasi suunnittelemassa muuttoa, laita sähköpostia <pitkonaarinparatiisi@gmail.com> niin autamme mielellämme!
-
-## Sivut
+Yritämme kerätä tänne kaiken oleellisen tiedon Suomesta Boqueteen muuttamista miettiville. Artikkeleita tulee lisää.
 
 Tieto on jaettu seuraaviin sivuihin:
 
@@ -34,6 +32,6 @@ Tieto on jaettu seuraaviin sivuihin:
 3. [Yhteisö](yhteiso.html)
 4. [Kuvia Boquetesta](kuvia.html)
 
-Tutustuttuasi sivuihin voit ottaa meihin yhteyttä mieltäsi askarruttavissa asioissa. 
+Jos haluat lisätietoa tai olet jo tosissasi suunnittelemassa muuttoa, laita sähköpostia <pitkonaarinparatiisi@gmail.com> niin autamme mielellämme!
 
 Tervetuloa Boqueteen hodlaamaan!
