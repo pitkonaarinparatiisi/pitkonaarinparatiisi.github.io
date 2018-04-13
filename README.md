@@ -32,6 +32,7 @@ Tieto on jaettu seuraaviin sivuihin:
 1. [Yleistietoa](yleistietoa.html)
 2. [Muuttaminen](muuttaminen.html)
 3. [Yhteisö](yhteiso.html)
+4. [Kuvia Boquetesta](kuvia.html)
 
 Tutustuttuasi sivuihin voit ottaa meihin yhteyttä mieltäsi askarruttavissa asioissa. 
 
