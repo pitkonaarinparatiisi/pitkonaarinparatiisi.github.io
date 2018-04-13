@@ -8,11 +8,11 @@ Olemme Suomesta lähteneitä Bitcoin-harrastajia, yrittäjiä ja pitkän linjan 
 
 ## Myyttekö jotain?
 
-Emme myy mitään, jaamme vain tietoa ja ideoita. Tämä sivu on tehty helpottamaan tiedon jakamista.
+Emme myy mitään, jaamme vain tietoa ja ideoita. Tämä sivusto on tehty helpottamaan tiedon jakamista.
 
-Meillä on myös tavoitteena rakentaa tänne pikkuhiljaa suomalaista (erityisesti Bitcoin-harrastajista) koostuvaa yhteisöä. Muutkin kuin Bitcoin-harrastajat ovat tietysti tervetulleita. Erityisesti paikkariippumattomille yrittäjille tämä on erittäin hyvä paikka. Jos meitä olisi täällä enemmän, niin voisimme jakaa monia kustannuksia ja tehdä toistemme elämästä monin eri tavoin helpompaa ja laadukkaampaa.
+Meillä on myös tavoitteena rakentaa tänne pikkuhiljaa suomalaisista (erityisesti Bitcoin-harrastajista) koostuvaa yhteisöä. Muutkin kuin Bitcoin-harrastajat ovat tietysti tervetulleita. Erityisesti paikkariippumattomille yrittäjille tämä on erittäin hyvä paikka. Jos meitä olisi täällä enemmän, niin voisimme jakaa monia kustannuksia ja tehdä toistemme elämästä monin eri tavoin helpompaa ja laadukkaampaa.
 
-Voi myös käydä niin, että moni meistä saavuttaa elintason jossa lisärahan tekeminen ei enää ole mielekäs tavoite. Pelkkä palmun alla makailu käy kuitenkin tylsäksi parin kuukauden jälkeen, joten elämässä pitää olla jotakin työnkaltaista sisältöä.
+Voi myös käydä niin, että moni meistä saavuttaa elintason jossa lisärahan tekeminen ei enää ole mielekäs tavoite. Pelkkä palmun alla makailu käy kuitenkin tylsäksi parin kuukauden jälkeen, joten elämässä pitää olla jotakin rakentavaa sisältöä.
 
 Täällä voisimme lyödä viisaat päät yhteen ja miettiä miten saada maailmasta parempi paikka kryptovaluuttojen, sijoittamisen ja yrittäjyyden kautta.
 
