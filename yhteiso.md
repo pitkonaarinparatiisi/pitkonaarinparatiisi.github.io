@@ -78,7 +78,7 @@ Laskennalliset "Bitcoin-alennukset":
 
 Leikitelläänpä sellaisella ajatuksella, että Bitcoinin hinta lähtee jossakin vaiheessa kunnolla nousuun. Se voi mahdollistaa meille nykyisille Bitcoin-omistajille kaikenlaista kivaa, ja kustannuksia jakamalla ei tarvitse edes luopua hodlaamisesta.
 
-Tässä muutamia laskennallisia esimerkkejä siitä mitä jokin kuvitteellinen porukka voisi ehkä kyetä ostamaan, Bitcoinin hintatasosta riippuen. Veroja on ehkä vähän epäoleellista tässä vertailla, mutta jokainen osaa laskea että Suomen verottaja vetäisi näissä välistä törkeitä summia. 
+Tässä muutamia laskennallisia esimerkkejä siitä mitä jokin kuvitteellinen porukka voisi ehkä kyetä ostamaan, Bitcoinin hintatasosta riippuen. Veroja on ehkä vähän epäoleellista tässä vertailla, mutta jokainen osaa laskea että Suomen verottaja vetäisi näissä välistä tähtitieteellisiä summia. 
 
 Käyttöökustannukset (jotka voivat olla merkittäviäkin) on jätetty yksinkertaisuuden vuoksi huomiotta. We'll cross that bridge when we come to it...
 
