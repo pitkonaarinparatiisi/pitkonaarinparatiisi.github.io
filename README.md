@@ -1,6 +1,6 @@
 # Mikä ihmeen Pitkonäärin Paratiisi?
 
-Pitkonäärin Paratiisi on sivusto, jonka tarkoitus on jakaa tietoa muuttamisesta **Panamassa** sijaitsevaan **Boqueteen**. Olemme seuranneet suomalaisissa Bitcoin-piireissä käytävää maastamuuttokeskustelua ja vaikka Boquete on mielestämme selkeästi paras muuttokohde, niin harva on harkinnut muuttavansa Panamaan, saati sitten kuullut Boquetesta.
+Pitkonäärin Paratiisi on sivusto, jonka tarkoitus on jakaa tietoa muuttamisesta **Panamassa** sijaitsevaan **[Boqueteen](https://www.google.com/maps/place/8%C2%B046'35.2%22N+82%C2%B025'57.1%22W/@9.0818871,-84.1344797,7.5z/data=!4m6!3m5!1s0x0:0x0!7e2!8m2!3d8.7764352!4d-82.4325304)**. Olemme seuranneet suomalaisissa Bitcoin-piireissä käytävää maastamuuttokeskustelua ja vaikka Boquete on mielestämme selkeästi paras muuttokohde, niin harva on harkinnut muuttavansa Panamaan, saati sitten kuullut Boquetesta.
 
 Täällä Boquetessa on kesä 365 päivää vuodessa, verotus (erityisesti kryptovaluuttojen verotus) on erittäin edullinen, hyvät nettiyhteydet, edulliset palvelut ja yleensäkin kohtuullinen hintataso, erittäin helppo käytäntö oleskelulupiin, puhdas ympäristö ja ilma... emme vielä ole löytäneet samanlaista hyvien asioiden yhdistelmää mistään muualta maailmasta.
 
