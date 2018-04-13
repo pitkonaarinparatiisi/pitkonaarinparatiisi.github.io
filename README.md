@@ -29,9 +29,9 @@ Yritämme kerätä tänne kaiken oleellisen tiedon Suomesta Boqueteen muuttamist
 
 Tieto on jaettu seuraaviin sivuihin:
 
-1. Yleistietoa
-2. Muuttaminen
-3. Yhteisö
+1. [Yleistietoa](yleistietoa.html)
+2. [Muuttaminen](muuttaminen.html)
+3. [Yhteisö](yhteiso.html)
 
 Tutustuttuasi sivuihin voit ottaa meihin yhteyttä mieltäsi askarruttavissa asioissa. 
 
