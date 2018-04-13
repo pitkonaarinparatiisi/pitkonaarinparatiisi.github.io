@@ -1,4 +1,7 @@
 # Muuttaminen
+
+**Muuttamiseen vaadittavista paperitöistä, oleskeluluvasta ja Suomen verotuksesta vapautumisesta on tulossa erillinen artikkeli pian**
+
 Muuttokustannukset riippuvat monista eri tekijöistä, joten tämän artikkelin tarkoituksena on kuvata yksin muuttavan henkilön todennäköisiä kustannuksia. 
 
 Oletuksena on, että muutat kalustettuun asuntoon lentokoneessa mukana kulkevilla tavaroilla. Jos haluat omat huonekalut mukaan, niin edullisin vaihtoehto on lähettää ne tänne laivakontilla.
