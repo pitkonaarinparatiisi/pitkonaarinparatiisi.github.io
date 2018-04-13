@@ -7,7 +7,7 @@ Kannattaa kuitenkin lähteä liikkeelle mahdollisimman kevyesti ja tulla ensin k
 
 Kunhan saat oleskeluluvan, niin voit tuoda laivakontillisen omia tavaroitasi Panamaan ilman tullimaksuja ja veroja. Panaman virallinen valuutta on Balboa, joka on sidottu 1:1-suhteella Yhdysvaltain dollariin.
 
-Kaikki hinnat ovat dollareiss ja tätä artikkelia varten muunnettu euromääriksi (tosin nämä ovat arvioita, vaihteluväli voi olla -+20% tai enemmänkin).
+Kaikki hinnat ovat dollareissa ja tätä artikkelia varten muunnettu euromääriksi (tosin nämä ovat arvioita, vaihteluväli voi olla -+20% tai enemmänkin).
 
 ## Kustannukset
 
@@ -21,16 +21,16 @@ Budjetoi riittävästi rahaa, niin saat itsellesi riittävän mukavan elintason 
 Muuttoon kannattaa varata ylimääräistä 500-1000€ täällä tapahtuviin tavarahankintoihin ja muuhun muuttosäätöön, koska kalustetutkin kämpät vaativat käytännössä aina kaikenlaista pientä täydennystä.
 
 ### Lennot
-Lento yhteen suuntaan: n. 500€. Lentoja kannattaa etsiä Tocumenin lentokentälle lentokenttäkoodilla PTY.
+Lento yhteen suuntaan: n. 500€. Lentoja kannattaa etsiä Panama Cityssä sijaitsevalle Tocumenin lentokentälle lentokenttäkoodilla PTY. Panama Citystä pääsee tunnin lennolla (reilu 100€) Davidiin, josta on 50km automatka Boqueteen. Ota yhteyttä niin katsotaan saadaanko kyyti järjestymään. Vaikka ei onnistuisikaan, niin taksi maksaa 30-40€.
 
 ### Asunto
 Kalustetun yksiön/kaksion kuukausivuokra: n. 400€, halvemmallakin voi asuntoja löytää, mutta kannattaa aloittaa asunnon etsiminen riittävällä budjetilla ja optimoida myöhemmin.
 
 ### Ruoka
-Ruoan hinta ruokakaupassa samaa luokkaa kuin Suomessa. Budjetoi vähintään 200#/kk ja enemmän jos haluat syödä ulkona.
+Ruoan hinta ruokakaupassa samaa luokkaa kuin Suomessa. Budjetoi vähintään 200-300€/kk ja enemmän jos haluat syödä ulkona.
 
 ### Sähkö
-Sähkö on vähän kalliimpaa kuin Suomessa, mutta koska täällä ei tarvitse ilmastointia eikä lämmitystä, niin sähkön kokonaiskulutus on pientä, mitä nyt kodinkoneet kuluttavat n. 20€/kk.
+Sähkö on vähän kalliimpaa kuin Suomessa, mutta koska täällä ei tarvitse ilmastointia eikä lämmitystä, niin sähkön kokonaiskulutus on pientä, mitä nyt kodinkoneet kuluttavat... n. 20€/kk.
 
 ### Vesi
 Tiedot tulossa.
