@@ -10,7 +10,7 @@ Panama on lähellä päiväntasaajaa, mikä tarkoittaa että lämpötilat ovat t
 Öisin on viileämpää, mutta ei kylmää. Sade- eli vihreällä kaudella sataa enemmän kuin kuivalla kaudella, mutta silloinkin lähinnä iltapäivisin muutaman tunnin pätkissä. Kuivallakin kaudella vettä tulee juuri sen verran, että ympäristö kestää vihreänä.
 
 ## Verotus
-Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloja tai ansiotuloa tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta. ALV on 7% eikä sitä peritä ruokakaupan ruoasta. ;uita veroja ei juurikaan ole.
+Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloja tai ansiotuloa tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta. ALV on 7% eikä sitä peritä ruokakaupan ruoasta. muita veroja ei juurikaan ole.
 
 ## Turvallisuus
 
