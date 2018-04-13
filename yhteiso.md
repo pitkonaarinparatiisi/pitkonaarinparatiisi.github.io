@@ -39,7 +39,7 @@ Jos olet niin tyhmä, että pidät laskelmissa olevia Bitcoinin laskennallisia h
 * **Suomi100-juhlahinta**: Tarkoittaa sitä hintaa, minkä joutuisit maksamaan samasta hankinnasta Suomessa: ALV 24% + mahdolliset muut hankintaan liittyvät verot + verolliselle summalle vielä pääomavero 34% (perustuen oletukseen että myisit Bitcoineja yli 30 000€ vuodessa ilman hankintamenotodisteluja tms "alennuksia"). Vertailtavuuden vuoksi nämäkin hinnat ovat dollareissa.
 * **Nuppiluku**: Arvioissa on käytetty viittä henkilöä esimerkkinä, mutta esimerkiksi auton jakaminen kymmenenkään ihmisen kesken ei liene epärealistista. Yksinkertaisuuden vuoksi arviot myös olettavat hinnan jakamisen tasaisesti kaikkien kesken, mutta myös käytön mukaan säätyvää hinnan jakamista voinee ainakin harkita.
 
-## Auto
+### Auto
 Auto (kohtuuhyvä vuoristotiekelpoinen neliveto-maasturi, hinnat tietysti vaihtelevat paljon):
 Huom: kirjoittaja yritti selvittää miten autojen verotus kokonaisuudessaan Suomessa toimii, mutta verenpaineen nousu vaarallisiin lukemiin pakotti jättämään tarkemmat laskelmat kesken. Veron määrä on siis karkea arvio. Omistamiseen liittyviä veroja kuten vuosittain maksettavaa ajoneuvoveroa, bensiiniveroja yms ei ole huomioitu (niitä ei Panamassa ole). Vakuutukset on myös jätetty huomiotta.
 
@@ -57,7 +57,7 @@ Laskennallisia hintoja "Bitcoin-alennuksella", jos olet ostanut/ostat Bitcoineja
 * $50000/BTC: $1000
 * $100000/BTC: $500
 
-## Purjevene
+### Purjevene
 
 Veroton hinta: $50 000
 
@@ -74,7 +74,7 @@ Laskennalliset "Bitcoin-alennukset":
 * $100000/BTC: $1020
 
 
-## Luksus-osasto
+## "Luksus-osasto", eli yksittäisen keskiluokkaisen ihmisen ulottumattomissa olevat hankinnat
 
 Leikitelläänpä sellaisella ajatuksella, että Bitcoinin hinta lähtee jossakin vaiheessa kunnolla nousuun. Se voi mahdollistaa meille nykyisille Bitcoin-omistajille kaikenlaista kivaa, ja kustannuksia jakamalla ei tarvitse edes luopua hodlaamisesta.
 
