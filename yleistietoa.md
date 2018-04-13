@@ -60,13 +60,13 @@ Puhdas ilma ja vesi: Autoistuminen kiihtyy valitettavan nopeasti, mikä varsinki
 Hedelmällinen maaperä: Boquete on vulkaanista aluetta, joten maaperä on erittäin hedelmällistä ja täällä voi viljellä melkein mitä huvittaa. Lannoitteita ei tarvita, ja hedelmät ja kasvikset ovat maukkaita. Kylässä on myös vesiviljelykauppa, jos mullassa kyntäminen ei kiinnosta.
 
 ### Vapaa-aika
-Lähialueilla paljon erilaista säätä ja tekemistä: Panama on kapea maa-alue Karibianmeren ja Tyynen valtameren välissä. Tyynelle valtamerelle pääsee autolla tunnissa, Karibialle neljässä tunnissa. Boquetessa on myös paljon erilaisia aktiviteetteja, ziplineä, koskenlaskua, paljon erilaisia vuoristovaellusreittejä, ratsastusta yms. Ulkoliikuntaan sää on erinomainen: aamuiset juoksulenkit ulkona onnistuvat juuri sopivan viileässä säässä.
+Lähialueilla paljon erilaista säätä ja tekemistä: Panama on kapea maa-alue Karibianmeren ja Tyynen valtameren välissä. Tyynelle valtamerelle pääsee autolla tunnissa, Karibialle kolmessa tai neljässä tunnissa. Boquetessa on myös paljon erilaisia aktiviteetteja, ziplineä, koskenlaskua, paljon erilaisia vuoristovaellusreittejä, ratsastusta yms. Ulkoliikuntaan sää on erinomainen: aamuiset juoksulenkit ulkona onnistuvat juuri sopivan viileässä säässä.
 
 
 ## Byrokratia
 
-Vaikka tänne on helppo saada pysyvä oleskelulupa, sinun ei välttämättä tarvitse miettiä oleskelulupa-asioita ollenkaan, mutta saadaksesi virallisen verovapauden on oleskelulupa hyvä hankkia.
+Vaikka tänne on helppo saada pysyvä oleskelulupa, sinun ei välttämättä tarvitse miettiä oleskelulupa-asioita ollenkaan. Pysyvä oleskelulupa voi tosin useissa tapauksissa yksinkertaistaa Suomen verovelvollisuudesta vapautumista.
 
 Täällä voi olla ja elää pelkällä Suomen passilla 6kk kerrallaan ja senkin jälkeen riittää nopea pyörähdys naapurimaassa. Sen jälkeen voit tulla takaisin seuraavaksi puoleksi vuodeksi ja toistaa samaa niin kauan kuin haluat.
 
-Pysyvästä oleskeluluvasta on muutamia hyötyjä verovapauden lisäksi. Suurimpana se että pysyvän oleskeluluvan saatuasi voit viiden vuoden kuluttua saada Panaman kansalaisuuden/passin. Koska tulevaisuuden maailman menoa on hankala ennustaa, niin toinen passi voi olla arvaamattoman hyödyllinen. Oleskeluluvan saatuasi voit myös tuoda maahan laivakontillisen omia tavaroitasi.
+Pysyvästä oleskeluluvasta on muutamia hyötyjä helpommin saatavan Suomen verovapauden lisäksi. Suurimpana se että pysyvän oleskeluluvan saatuasi voit viiden vuoden kuluttua saada Panaman kansalaisuuden/passin. Koska tulevaisuuden maailman menoa on hankala ennustaa, niin toinen passi voi olla arvaamattoman hyödyllinen. Oleskeluluvan saatuasi voit myös tuoda maahan laivakontillisen omia tavaroitasi.
