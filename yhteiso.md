@@ -9,13 +9,7 @@ Yhteisellä koordinoinnilla voimme kuitenkin saavuttaa enemmänkin ja voimme jak
 
 Vastaavia asioita on paljon: yksittäisinä hankintoina kalliita asioita, joita tarvitaan satunnaisesti. Jakamalla näitä resursseja voimme saada niistä täyden hyödyn murto-osalla hinnasta. Samalla niiden hankintaan ja ylläpitoon liittyvä turha häsläys tippuu murto-osaan.
 
-Tähän artikkeliin on listattuna muutamia esimerkkejä/ideoita sekä laskelmia helposti jaettavista hankinnoista. Pienempiäkin (alle 1000e arvoisia) resursseja voi tietysti jakaa, mutta niitä lienee turha listata tänne erikseen. Jokainen vastaa kuitenkin ensisijaisesti itsestään/perheestään, koska emme ole sosialistien paratiisi. 
 
-## Laskelmien selitykset
-
-* **Dollarihinnat**: Hinnat ovat dollareissa (kuten hinnat Panamassa aina), eli tiputa viideosa pois niin saat eurohinnat.
-* **Suomi100-juhlahinta**: Tarkoittaa sitä hintaa, minkä joutuisit maksamaan samasta hankinnasta Suomessa: ALV 24% + mahdolliset muut hankintaan liittyvät verot + verolliselle summalle vielä pääomavero 34% (perustuen oletukseen että myisit Bitcoineja yli 30 000€ vuodessa ilman hankintamenotodisteluja tms "alennuksia"). Vertailtavuuden vuoksi nämäkin hinnat ovat dollareissa.
-* **Nuppiluku**: Arvioissa on käytetty viittä henkilöä esimerkkinä, mutta esimerkiksi auton jakaminen kymmenenkään ihmisen kesken ei liene epärealistista. Yksinkertaisuuden vuoksi arviot myös olettavat hinnan jakamisen tasaisesti kaikkien kesken, mutta myös käytön mukaan säätyvää hinnan jakamista voinee ainakin harkita.
 
 ## Asuinalue
 Toistaiseksi teoreettinen, mutta pitkällä tähtäimellä suurin hyöty voisi olla yhteisen asuinalueen perustaminen. Boquete on maaseutua, ja kunnallistekniikka voi täällä välillä jättää toivomisen varaa.
@@ -30,7 +24,17 @@ Myös luksusosaston hankinnat ja järjestelyt onnistuisivat lähekkäin asuessa 
 
 Boquetessa ei ole elokuvateatteria, joten kaikilla herkuilla varustettu riittävän iso kotiteatteri ei olisi yhtään huono idea.
 
-Lue lisää laskelmista ja ideoista, mitä kaikkea täällä voisi olla mahdollista hankkia. (linkki)
+## Laskelmia
+
+Lue lisää laskelmista ja ideoista, mitä kaikkea täällä voisi olla mahdollista hankkia.
+
+Tähän artikkeliin on listattuna muutamia esimerkkejä/ideoita sekä laskelmia helposti jaettavista hankinnoista. Pienempiäkin (alle 1000e arvoisia) resursseja voi tietysti jakaa, mutta niitä lienee turha listata tänne erikseen. Jokainen vastaa kuitenkin ensisijaisesti itsestään/perheestään, koska emme ole sosialistien paratiisi. 
+
+## Laskelmien selitykset
+
+* **Dollarihinnat**: Hinnat ovat dollareissa (kuten hinnat Panamassa aina), eli tiputa viideosa pois niin saat eurohinnat.
+* **Suomi100-juhlahinta**: Tarkoittaa sitä hintaa, minkä joutuisit maksamaan samasta hankinnasta Suomessa: ALV 24% + mahdolliset muut hankintaan liittyvät verot + verolliselle summalle vielä pääomavero 34% (perustuen oletukseen että myisit Bitcoineja yli 30 000€ vuodessa ilman hankintamenotodisteluja tms "alennuksia"). Vertailtavuuden vuoksi nämäkin hinnat ovat dollareissa.
+* **Nuppiluku**: Arvioissa on käytetty viittä henkilöä esimerkkinä, mutta esimerkiksi auton jakaminen kymmenenkään ihmisen kesken ei liene epärealistista. Yksinkertaisuuden vuoksi arviot myös olettavat hinnan jakamisen tasaisesti kaikkien kesken, mutta myös käytön mukaan säätyvää hinnan jakamista voinee ainakin harkita.
 
 ## Auto
 Auto (kohtuuhyvä vuoristotiekelpoinen neliveto-maasturi, hinnat tietysti vaihtelevat paljon):
@@ -104,4 +108,4 @@ Malli "kuu" (Bitcoin miljoonaan): Kymmenellä miljoonalla alkaa saamaan pitkiin 
 
 Nämä esimerkit ovat tietenkin hyvin laskennallisia. Käytännössä voi olla, että suoran ostamisen sijaan paras vaihtoehto on hankkiutua aktiivisiin yhteyksiin jo lentokoneita omistavien (ja huoltavien yms) tahojen kanssa, ja sopia esimerkiksi osa-omistuksesta.
 
-Jätetään tarkempien yksityiskohtien selvittäminen myöhempään ajankohtaan, jos Bitcoinin hinta jatkaa nykyisellä radallaan ja kiinnostuneita on riittävästi. 
+Jätetään tarkempien yksityiskohtien selvittäminen myöhempään ajankohtaan, jos Bitcoinin hinta jatkaa nykyisellä radallaan ja kiinnostuneita on riittävästi.
