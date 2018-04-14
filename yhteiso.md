@@ -85,11 +85,11 @@ Laskennalliset "Bitcoin-alennukset" (lue disclaimer ylempää):
 
 ### <strike>Lambo</strike> offroad-sähkörullatuoli
 
-Tämä on varmaan henkilökohtainen ennakkoluulo, mutta Lamboista tulee vähän mieleen ICO-huijarit ja netissä vuokra-Lamboilla kuvitteellista menestystään hehkuttavat pellet. Boqueten vuoristoteillä [tämä voi olla käytännöllisempi kulkupeli](https://www.youtube.com/watch?v=3R5VLdWH254). Jos tuntuu että haluat silti ostella urheiluautoja, niin niillä voi ajella Davidiin (ja siitä eteenpäin) menevällä nelikaistaisella moottoritiellä. 
+Tämä on varmaan henkilökohtainen ennakkoluulo, mutta Lamboista tulee vähän mieleen ICO-huijarit ja netissä vuokra-Lamboilla kuvitteellista menestystään hehkuttavat pellet. Boqueten vuoristoteillä [tämä voi olla käytännöllisempi kulkupeli](https://www.youtube.com/watch?v=3R5VLdWH254). Jos tuntuu että haluat silti ostella urheiluautoja, niin niillä voi ajella Davidiin (ja siitä eteenpäin) menevällä nelikaistaisella moottoritiellä.
 
 Ziesel Sport:
 
-$30 000
+Veroton hinta: $30 000
 
 Suomi100-juhlahinta: Alv 24% $7200 + pääomavero 34% $12 468 = $49 848.
 
