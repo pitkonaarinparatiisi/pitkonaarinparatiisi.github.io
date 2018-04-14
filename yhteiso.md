@@ -36,7 +36,7 @@ Jos olet niin tyhmä, että pidät laskelmissa olevia Bitcoinin laskennallisia h
 ## Laskelmien selitykset
 
 * **Dollarihinnat**: Hinnat ovat dollareissa (kuten hinnat Panamassa aina), eli tiputa viideosa pois niin saat eurohinnat.
-* **[Suomi100-juhlahinta](https://www.suomenuutiset.fi/nain-suomi-100-rahoja-husattiin-palkkoja-matkakuluja-paivarahoja-suuria-summia-kohteisiin-mitaan-tekemista-suomen-itsenaisyyden/ "hei hei Suomi")**: Tarkoittaa sitä hintaa, minkä joutuisit maksamaan samasta hankinnasta Suomessa: ALV 24% + mahdolliset muut hankintaan liittyvät verot + verolliselle summalle vielä pääomavero 34% (perustuen oletukseen että myisit Bitcoineja yli 30 000€ vuodessa ilman hankintamenotodisteluja tms "alennuksia"). Vertailtavuuden vuoksi nämäkin hinnat ovat dollareissa.
+* **[Suomi100-juhlahinta](https://www.suomenuutiset.fi/nain-suomi-100-rahoja-husattiin-palkkoja-matkakuluja-paivarahoja-suuria-summia-kohteisiin-mitaan-tekemista-suomen-itsenaisyyden/ "Korruption juhla - sinun rahoillasi!")**: Tarkoittaa sitä hintaa, minkä joutuisit maksamaan samasta hankinnasta Suomessa: ALV 24% + mahdolliset muut hankintaan liittyvät verot + verolliselle summalle vielä pääomavero 34% (perustuen oletukseen että myisit Bitcoineja yli 30 000€ vuodessa ilman hankintamenotodisteluja tms "alennuksia"). Vertailtavuuden vuoksi nämäkin hinnat ovat dollareissa.
 * **Nuppiluku**: Arvioissa on käytetty viittä henkilöä esimerkkinä, mutta esimerkiksi auton jakaminen kymmenenkään ihmisen kesken ei liene epärealistista. Yksinkertaisuuden vuoksi arviot myös olettavat hinnan jakamisen tasaisesti kaikkien kesken, mutta myös käytön mukaan säätyvää hinnan jakamista voinee ainakin harkita.
 
 ### Auto
