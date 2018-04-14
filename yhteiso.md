@@ -83,9 +83,9 @@ Laskennalliset "Bitcoin-alennukset" (lue disclaimer ylempää):
 * $50000/BTC ja 10 henkeä: $1020
 
 
-### <strike>Lambo</strike> ...tai siis offroad-sähkörullatuoli
+### <strike>Lambo</strike> offroad-sähkörullatuoli
 
-Tämä on varmaan henkilökohtainen ennakkoluulo, mutta lamboista tulee vähän mieleen ICO-huijarit ja netissä vuokra-Lamboilla kuvitteellista menestystään hehkuttavat pellet. Boqueten vuoristoteillä [tämä voi olla käytännöllisempi kulkupeli](https://www.youtube.com/watch?v=3R5VLdWH254). Jos tuntuu että haluat silti ostella urheiluautoja, niin niillä voi ajella Davidiin (ja siitä eteenpäin) menevällä nelikaistaisella moottoritiellä. 
+Tämä on varmaan henkilökohtainen ennakkoluulo, mutta Lamboista tulee vähän mieleen ICO-huijarit ja netissä vuokra-Lamboilla kuvitteellista menestystään hehkuttavat pellet. Boqueten vuoristoteillä [tämä voi olla käytännöllisempi kulkupeli](https://www.youtube.com/watch?v=3R5VLdWH254). Jos tuntuu että haluat silti ostella urheiluautoja, niin niillä voi ajella Davidiin (ja siitä eteenpäin) menevällä nelikaistaisella moottoritiellä. 
 
 Ziesel Sport:
 
@@ -131,7 +131,7 @@ Hinta jaettuna kymmenen ihmisen kesken: $50 000
 ### Lentokone
 
 
-Lähdetään siitä oletuksesta että mitään yksityislentokoneita ei vielä tämän porukan nykyvarallisuudella ja Bitcoinin nykyhinnalla ole joko varaa tai halua ostaa. Muutetaan siis laskentakaavaa hieman, ja mietitään mitä saisi kymmenellä Bitcoinilla (viiden ihmisen kesken jaettuna 2 Bitcoinia, eli $10k hinnalla ostettuna $20k tämänhetkinen sijoitus per henki) _jos_ hinta nousee. Jos ei nouse, niin sitten jätetään koneet ostamatta tai hankitaan rahat muilla keinoilla. Panamassa yrittäminen kannattaa aina!
+Lähdetään siitä oletuksesta että mitään yksityislentokoneita ei vielä tämän porukan nykyvarallisuudella ja Bitcoinin nykyhinnalla ole joko varaa tai halua ostaa. Muutetaan siis laskentakaavaa hieman, ja mietitään mitä saisi kymmenellä Bitcoinilla (viiden ihmisen kesken jaettuna 2 Bitcoinia, eli $10k hinnalla ostettuna $20k tämänhetkinen sijoitus per henki) _jos_ hinta nousee. Jos ei nouse, niin sitten jätetään koneet ostamatta tai hankitaan rahat muilla keinoilla. Panamassa (ja netissä) yrittäminen kannattaa aina!
 
 Jos Bitcoinin hinta nousee $50 000 asti, niin kymmenellä Bitcoinilla saa jo oman lentokoneen. Ei mitään suihkukonetta, mutta jonkinlaisen useamman henkilön lentokoneen kuitenkin. Pienelläkin koneella voi lennellä lähialueille (Amerikan mantereet). Tässä voi myös miettiä erilaisia skenaarioita, eli onko kiinnostusta kenties laittaa tähän harrastukseen enemmänkin rahaa, tai onko kiinnostuneita mahdollisesti enemmänkin kuin viisi henkeä, vai odotellaanko vain vielä kovempia hintoja... näitä voi miettiä.
 
