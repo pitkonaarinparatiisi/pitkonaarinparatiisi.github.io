@@ -58,7 +58,7 @@ Suomi100-juhlahinta: Auton verollinen hinta $30 000 + pääomavero Bitcoinien my
 
 Verollinen hinta Panamassa: Auton verollinen hinta n. $25 000, pääomavero Bitcoinien myynnistä $0 = $25 000.
 
-Hinta jaettuna viiden ihmisen kesken: $5000
+Hinta jaettuna viiden ihmisen kesken: $5000<br>
 Hinta jaettuna kymmenen ihmisen kesken: $2500
 
 Laskennallisia hintoja "Bitcoin-alennuksella", jos olet ostanut/ostat Bitcoineja $10 000/kpl ja Bitcoinin hinta nouseekin auton hankkimiseen mennessä viiteenkymmeneen tuhanteen (kuten disclaimerissa ylempänä todettu: emme ota kantaa tämän hintaskenaarion todennäköisyyteen):
@@ -74,8 +74,8 @@ Suomi100-juhlahinta: ALV 24% $12 000 + pääomavero Bitcoinien myynnistä $21 08
 
 Hankintahinta Panamassa: Rekisteröitymismaksu $1000 (+$1000 lisää kahden vuoden välein), verot ilmeisesti 0% (pitää tarkistaa ammattilaisilta) = $51000.
 
-Jaettuna viidelle: $10200
-Jaettuna kymmenelle: $5100
+Hinta jaettuna viiden ihmisen kesken: $10200<br>
+Hinta jaettuna kymmenen ihmisen kesken: $5100
 
 Laskennalliset "Bitcoin-alennukset" (lue disclaimer ylempää):
 
@@ -95,7 +95,7 @@ Suomi100-juhlahinta: Alv 24% $7200 + pääomavero 34% $12 468 = $49 848.
 
 Verollinen hinta Panamassa: ALV 7% $2100 + tulli (todennäköisesti 10%, vaihtelee välillä 0-15%, tarkka luku pitäisi varmistaa tullista) $3000, pääomavero $0 = $35 100.
 
-Hinta jaettuna viidelle: $7020
+Hinta jaettuna viidelle: $7020<br>
 Hinta jaettuna kymmenelle: $3510
 
 Laskennalliset "Bitcoin-alennukset" (lue disclaimer ylempää):
@@ -119,7 +119,7 @@ Boquetesta Karibialle on autolla useiden tuntien matka, koska vuoret pitää kie
 
 $500 000 (halvemmallakin saanee, lasketaan kuitenkin riittävän isolla hinnalla).
 
-Hinta jaettuna viiden ihmisen kesken: $100 000
+Hinta jaettuna viiden ihmisen kesken: $100 000<br>
 Hinta jaettuna kymmenen ihmisen kesken: $50 000
 
 "Bitcoin-alennuksella", olettaen jälleen Bitcoinien hankintahinnaksi $10k (lue disclaimer ylempää):
