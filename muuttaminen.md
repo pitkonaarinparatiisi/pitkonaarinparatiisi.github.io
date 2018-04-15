@@ -1,6 +1,6 @@
 # Muuttaminen
 
-**Huom! Muuttamiseen vaadittavista paperitöistä, oleskeluluvasta ja Suomen verotuksesta vapautumisesta on tulossa erillinen artikkeli pian!**
+**Huom! Muuttamiseen vaadittavista paperitöistä, oleskeluluvasta ja Suomen verotuksesta vapautumisesta on [erillinen artikkeli](http://www.pitkonaarinparatiisi.info/oleskelulupa.html)**
 
 Muuttokustannukset riippuvat monista eri tekijöistä, joten tämän artikkelin tarkoituksena on kuvata yksin muuttavan henkilön todennäköisiä kustannuksia. 
 
