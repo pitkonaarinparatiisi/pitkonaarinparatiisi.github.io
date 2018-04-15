@@ -74,10 +74,10 @@ Kaksoiskansalaisena et ole yhden maan poliitikkojen päätösten ja korruption a
 
 ### Kuinka paljon oleskeluluvan hakeminen maksaa?
 
-Dokumentit Suomesta: 35€
-Yrityksen perustaminen Panamaan: n. $1200
-Pankkitilin avaaminen: tarvitset _väliaikaisesti_ 5000 dollaria, sitä lukuunottamatta ilmainen
-Terveystodistus: $25
+* Dokumentit Suomesta: 35€
+* Yrityksen perustaminen Panamaan: n. $1200
+* Pankkitilin avaaminen: tarvitset _väliaikaisesti_ 5000 dollaria, sitä lukuunottamatta ilmainen
+* Terveystodistus: $25
 
 Jos haluat hoitaa lupaprosessin avustajan kautta (ei välttämätöntä) niin lisää kustannuksiin avustajan palkkio. Hinnat vaihtelevat, yritämme saada jotain arvioita myöhemmin.
 
