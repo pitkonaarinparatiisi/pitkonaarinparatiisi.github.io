@@ -1,7 +1,6 @@
 # Kuvia Boquetesta
 
-1
-![](1.jpg)(http://pitkonaarinparatiisi.info/1.jpg)
+![](1.jpg)
 
 ![](2.jpg)
 
