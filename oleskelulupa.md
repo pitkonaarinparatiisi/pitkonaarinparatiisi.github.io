@@ -38,7 +38,7 @@ Kunhan olet saanut itsesi selkeästi ulos Suomesta ja perusasiat kuntoon uudessa
 
 ## Pysyvän oleskeluluvan sekä kaksoiskansalaisuuden edut
 
- **Huomioithan tätä lukiessasi, että pysyvä oleskelulupa ei ole edellytys tänne muuttamiselle**. Monet ovat asuneet täällä vuosien ajan ilman pysyvää oleskelulupaa, väliaikainen "oleskelulupa" eli turistiviisumi 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin. Kyseistä viisumia ei tarvitse edes etukäteen anoa, eli riittää kun tulet rajalle Suomen passi kourassa, ja saat luvan olla täällä puoli vuotta.
+ **Huomioithan tätä lukiessasi, että pysyvä oleskelulupa ei ole edellytys tänne muuttamiselle**. Monet ovat asuneet täällä vuosien ajan ilman pysyvää oleskelulupaa, väliaikainen "oleskelulupa" eli turistiviisumi 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin. Kyseistä viisumia ei tarvitse edes etukäteen anoa, eli riittää kun tulet rajalle Suomen passi kourassa, ja saat luvan olla täällä puoli vuotta kerrallaan (ei ylärajaa uusimiselle).
 
 Maahan saapumisen jälkeen voit kuitenkin saavuttaa huomattavia etuja anomalla pysyvää oleskelulupaa. Oleskelulupa on Suomen kansalaisille heti pysyvä (kunhan et syyllisty Panamassa rikoksiin), ja hakuprosessin kustannukset ovat pienet suhteessa moniin muihin matalan veroasteen maihin. Hakuprosessi on suhteellisen nopea sekä suoraviivainen. Siitä aiheutuu jonkin verran kustannuksia (katso luvut alempaa). Hyödyt ovat kuitenkin merkittäviä, joten suosittelemme hakuprosessin aloittamista heti kun olet tehnyt päätöksen että aiot olla täällä pitempään.
 
