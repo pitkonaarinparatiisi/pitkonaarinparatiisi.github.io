@@ -4,14 +4,14 @@ Tässä artikkelissa kerrotaan minkälaisia asioita täytyy huomioida, jos tahdo
 
 Artikkelin pituus voi tuntua ahdistavalta, mutta ei tämä niin monimutkaista ole. Pähkinänkuoressa hieman yksinkertaistaen:
 
--Yleinen verovelvollisuutesi Suomeen lakkaa kun muutat pois Suomesta
--Voit hakea pysyvää oleskelulupaa Panamaan jos haluat, vaikka voit hyvin asua täällä myös turistiviisumilla
--Paperiasiat kannattaa hoitaa oman etusi takia kuntoon, stressiä asiasta ei tarvitse kuitenkaan ottaa
+* Yleinen verovelvollisuutesi Suomeen lakkaa kun muutat pois Suomesta
+* Voit hakea pysyvää oleskelulupaa Panamaan jos haluat, vaikka voit hyvin asua täällä myös turistiviisumilla
+* Paperiasiat kannattaa hoitaa oman etusi takia kuntoon, stressiä asiasta ei tarvitse kuitenkaan ottaa
  
 
 ## Panamassa asumisen veroedut
 
-Panama ei verota ulkomailta ansaittuja ansio-, eikä pääomatuloja. Kryptovaluuttojen myynnistä saamasi varat ovat siis verovapaita. Paikallinen ALV on 7%, eikä se koske ruokakaupasta ostettua ruokaa. Maksat siis veroja täällä vain käyttötavaroista. Käytännössä kokonaisveroasteesi jäänee muutaman prosentin luokkaan, riippuen kulutustottumuksistasi. Myös alle $120 000 hintaiset kiinteistöt on vapautettu kiinteistöverosta kokonaan, eli kohtuuhintaisen asunnon tai talon omistamisesta ei tarvitse maksaa veroa. Ja jos vuokraat asunnon/talon (niinkuin ensikertalaisen kannattaa), niin verotus ei vaikuta vuokriin korottavasti.
+Panama ei verota ulkomailta ansaittuja ansio- eikä pääomatuloja. Kryptovaluuttojen myynnistä saamasi varat ovat siis verovapaita. Paikallinen ALV on 7%, eikä se koske ruokakaupasta ostettua ruokaa. Maksat siis veroja täällä vain käyttötavaroista. Käytännössä kokonaisveroasteesi jäänee muutaman prosentin luokkaan, riippuen kulutustottumuksistasi. Myös alle $120 000 hintaiset kiinteistöt on vapautettu kiinteistöverosta kokonaan, eli kohtuuhintaisen asunnon tai talon omistamisesta ei tarvitse maksaa veroa. Ja jos vuokraat asunnon/talon (niinkuin ensikertalaisen kannattaa), niin verotus ei vaikuta vuokriin korottavasti.
 
 ### Yleisen verovelvollisuuden päättyminen Suomeen
 
@@ -27,14 +27,14 @@ Tästä on vähän ristiriitaista tietoa, koska näitä papereita ei käytännö
 
 Kunhan olet saanut itsesi selkeästi ulos Suomesta ja perusasiat kuntoon uudessa kotimaassa, lähetä verohallinnolle seuraavat paperit (tässä on ehkä yksi potentiaalinen muuttuja, siitä lisää myöhemmin... dokumenttilista on kuitenkin verottajalta vahvistettu):
 
-* Asuinpaikkatodistus: tämä hoituu parhaiten jos olet jo saanut pysyvän oleskeluluvan Panamaan. Jos et, niin vaihtoehtoisesti:
-Certificate of residence and tax liability for the use of Finnish tax authorities (6132f) - Panaman viranomainen täyttää (hanki paikallinen avustaja).
+* Asuinpaikkatodistus: tämä hoituu parhaiten jos olet jo saanut pysyvän oleskeluluvan Panamaan. Jos et, niin vaihtoehtoisesti:<br>
+[Certificate of residence and tax liability for the use of Finnish tax authorities (6132f)](https://www.vero.fi/en/About-us/contact-us/forms/descriptions/certificate_of_residence_and_tax_liabil/) - Panaman viranomainen täyttää (hanki paikallinen avustaja).
 
 * Todistus sairausvakuutuskortin luovuttamisesta / Kelan todistus
 
 * Vuokrasopimuksen kopio
 
-* Lähdeverokortti tai verokortti – ulkomaille muuttava tai siellä asuva henkilö (6207a)
+* [Lähdeverokortti tai verokortti – ulkomaille muuttava tai siellä asuva henkilö (6207a)](https://www.vero.fi/tietoa-verohallinnosta/yhteystiedot-ja-asiointi/lomakkeet/kuvaus/lahdeverokortti_tai_verokortti__ulkomai/)
 
 ## Pysyvän oleskeluluvan sekä kaksoiskansalaisuuden edut
 
