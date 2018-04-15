@@ -24,7 +24,7 @@ Myös "luksusosaston" hankinnat ja järjestelyt onnistuisivat lähekkäin asuess
 
 Boquetessa ei ole elokuvateatteria, joten kaikilla herkuilla varustettu riittävän iso kotiteatteri olisi hyvä idea.
 
-![](asuinalue_esimerkki.jpg)
+[![](asuinalue_esimerkki.jpg)](http://www.pitkonaarinparatiisi.info/asuinalue_esimerkki.jpg)
 
 _Kuvassa näkyvä tontti ei ehkä ole myynnissä, mutta jotain vastaavankaltaista täältä voi varmasti löytää._
 
