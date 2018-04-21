@@ -44,7 +44,6 @@
 
 [![](22_thumb.jpg)](http://www.pitkonaarinparatiisi.info/22.jpg)
 
-
-[![](IMG_6034.JPG)](http://www.pitkonaarinparatiisi.info/IMG_6034.JPG)
+[![](23_thumb.JPG)](http://www.pitkonaarinparatiisi.info/23.JPG)
 
 Lisää tulossa :)
