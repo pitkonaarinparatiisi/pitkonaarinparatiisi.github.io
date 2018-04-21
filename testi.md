@@ -1,4 +1,4 @@
-![]({{site.baseurl}}//23_thumb.JPG)# Kuvia Boquetesta
+# Kuvia Boquetesta
 
 [![](1_thumb.jpg)](http://www.pitkonaarinparatiisi.info/1.jpg)
 
