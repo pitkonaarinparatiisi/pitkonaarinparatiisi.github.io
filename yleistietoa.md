@@ -4,7 +4,7 @@ Miksi pidämme Boquetea maailman parhaana paikkana? Syitä riittää.
 
 ## Ilmasto
 
-Yksi selkeä tekijä on ilmasto. Maailmassa riittää trooppisia paratiiseja ja Boquete on yksi niistä. Toisin kuin muissa trooppisissa paratiiseissa, niin täällä ei kuitenkaan ole suomalaiselle liian kuuma.
+Yksi selkeä tekijä on [ilmasto](https://internationalliving.com/the-best-climates-in-the-world/). Maailmassa riittää trooppisia paratiiseja ja Boquete on yksi niistä. Toisin kuin muissa trooppisissa paratiiseissa, niin täällä ei kuitenkaan ole suomalaiselle liian kuuma.
 
 Panama on lähellä päiväntasaajaa, mikä tarkoittaa että lämpötilat ovat tasaisia ympäri vuoden, eikä talvi pääse vaivaamaan koskaan. Yleensä se tarkoittaa myös korkeita lämpötiloja ja Boquetessa tämän asian ratkaisee korkeus: Boquete on kilometrin korkeudella merenpinnasta. Sen ansiosta päivälämpötilat ovat "normaalin" 30-40C sijaan lähempänä n. 25 celsiusta.
 
@@ -62,11 +62,11 @@ Panamassa ei ole kesä- eikä talviaikoja: Panaman aikavyöhyke on Eastern Stand
 
 ### Kahvi
 
-Maailman parasta kahvia: Täällä kasvaa kahvia joka puolella. Korkean ilmanalan johdosta se on myös erittäin laadukasta. Myös maailman kallein kahvi Panama Geisha tulee Boquetesta.
+Maailman parasta kahvia: Täällä kasvaa kahvia joka puolella. Korkean ilmanalan johdosta se on myös erittäin laadukasta. Myös maailman kallein kahvi [Panama Geisha](https://angelscup.com/blog/buy/most-expensive-coffee-panama-geisha/) tulee Boquetesta.
 
 ### Kannabis
 
-Kannabiksen lääketieteellistä käyttöä ollaan laillistamassa ympäri maailmaa, myös Panamassa. Lainsäädäntöprosessi on kesken, joten toivotaan että järki voittaa täälläkin. Naapurimaa Kolumbiassa kasvatus omaan käyttöön on dekriminalisoitu muutama vuosi sitten, joten jos käytännössä laillinen viihdekäyttö kiinnostaa, niin se onnistuu lähistöllä. Panamassa emme suosittele "omin luvin" viihdekäyttöä, koska kiinnijäänti voi olla este pysyvän oleskeluluvan saannille. Alle 5g hallussapidosta kiinnijäämisestä selviää todennäköisimmin pienellä sakolla.
+Kannabiksen lääketieteellistä käyttöä ollaan laillistamassa ympäri maailmaa, myös Panamassa. [Lainsäädäntöprosessi](http://www.panamatoday.com/panama/panama-takes-first-step-legalize-use-marijuana-medicinal-purposes-6376) on kesken, joten toivotaan että järki voittaa täälläkin. Naapurimaa Kolumbiassa kasvatus omaan käyttöön on [dekriminalisoitu](https://hightimes.com/culture/inside-colombias-legal-weed-scene/) muutama vuosi sitten, joten jos käytännössä laillinen viihdekäyttö kiinnostaa, niin se onnistuu lähistöllä. Panamassa emme suosittele "omin luvin" viihdekäyttöä, koska kiinnijäänti voi olla este pysyvän oleskeluluvan saannille. Alle 5g hallussapidosta kiinnijäämisestä selviää todennäköisimmin pienellä sakolla.
 
 ### Maaperä
 
@@ -82,7 +82,7 @@ Täällä ei ole myöskään suurten kaupunkien meluongelmia, vaan pelkästään
 
 ### Vapaa-aika
 
-Lähialueilla paljon erilaista säätä ja tekemistä: Panama on kapea maa-alue Karibianmeren ja Tyynen valtameren välissä. Tyynelle valtamerelle pääsee autolla tunnissa, Karibialle kolmessa tai neljässä tunnissa. Boquetessa on myös paljon erilaisia aktiviteetteja, ziplineä, koskenlaskua, paljon erilaisia vuoristovaellusreittejä, ratsastusta yms. Ulkoliikuntaan sää on erinomainen: aamuiset juoksulenkit ulkona onnistuvat juuri sopivan viileässä säässä.
+Lähialueilla paljon erilaista säätä ja tekemistä: Panama on kapea maa-alue Karibianmeren ja Tyynen valtameren välissä. Tyynelle valtamerelle pääsee autolla tunnissa, Karibialle kolmessa tai neljässä tunnissa. Boquetessa on myös paljon erilaisia aktiviteetteja, [ziplineä](https://www.youtube.com/watch?v=EDx9AmxKcUo), [koskenlaskua](https://www.youtube.com/watch?v=_l59lQpN7k0), paljon erilaisia vuoristovaellusreittejä, ratsastusta yms. Ulkoliikuntaan sää on erinomainen: aamuiset juoksulenkit ulkona onnistuvat juuri sopivan viileässä säässä.
 
 ## Byrokratia
 
