@@ -53,15 +53,18 @@ Maailman parasta kahvia: Täällä kasvaa kahvia joka puolella. Korkean ilmanala
 ### Kannabis
 Kannabiksen lääketieteellistä käyttöä ollaan laillistamassa ympäri maailmaa, myös Panamassa. Lainsäädäntöprosessi on kesken, joten toivotaan että järki voittaa täälläkin. Naapurimaa Kolumbiassa kasvatus omaan käyttöön on dekriminalisoitu muutama vuosi sitten, joten jos käytännössä laillinen viihdekäyttö kiinnostaa, niin se onnistuu lähistöllä. Panamassa emme suosittele "omin luvin" viihdekäyttöä, koska kiinnijäänti voi olla este pysyvän oleskeluluvan saannille. Alle 5g hallussapidosta kiinnijäämisestä selviää todennäköisimmin pienellä sakolla.
 
-### Vesi ja ilma
-Puhdas ilma ja vesi: Autoistuminen kiihtyy valitettavan nopeasti, mikä varsinkin monissa Kaakkois-Aasian maissa on johtanut siihen ettei kaupungeissa voi enää edes kunnolla hengittää. Boquetessa ei ole sitä ongelmaa, ilma ja ympäristö muutenkin on täällä puhdasta (tosin emme suosittele suoraan päätien varteen tai torin kupeeseen asettumista). Täällä ei ole myöskään suurten kaupunkien meluongelmia, vaan pelkästään leppoisaa vuoristokylän elämää. Kylässä on usein viikonloppuisin erilaisia musiikkifestivaaleja, eli mitään askeettista luostarielämää täällä ei tarvitse viettää (jos ei halua).
-
 ### Maaperä
 Hedelmällinen maaperä: Boquete on vulkaanista aluetta, joten maaperä on erittäin hedelmällistä ja täällä voi viljellä melkein mitä huvittaa. Lannoitteita ei tarvita, ja hedelmät ja kasvikset ovat maukkaita. Kylässä on myös vesiviljelykauppa, jos mullassa kyntäminen ei kiinnosta.
 
+### Ilma, vesi ja ympäristö
+Puhdas ilma: Autoistuminen kiihtyy valitettavan nopeasti, mikä varsinkin monissa Kaakkois-Aasian maissa on johtanut siihen ettei kaupungeissa voi enää edes kunnolla hengittää. Boquetessa ei ole sitä ongelmaa, ilma ja ympäristö muutenkin on täällä puhdasta (tosin emme suosittele suoraan päätien varteen tai torin kupeeseen asettumista). 
+
+Juomavesi: Toisin kuin suurimmassa osassa maailman maista, Panamassa voit juoda vettä turvallisesti suoraan hanasta. Sijainnista riippuen saatat saada vetesi suoraan vuoristolähteestä.
+
+Täällä ei ole myöskään suurten kaupunkien meluongelmia, vaan pelkästään leppoisaa vuoristokylän elämää. Kylässä on usein viikonloppuisin erilaisia musiikkifestivaaleja, eli mitään askeettista luostarielämää täällä ei tarvitse viettää (jos ei halua).
+
 ### Vapaa-aika
 Lähialueilla paljon erilaista säätä ja tekemistä: Panama on kapea maa-alue Karibianmeren ja Tyynen valtameren välissä. Tyynelle valtamerelle pääsee autolla tunnissa, Karibialle kolmessa tai neljässä tunnissa. Boquetessa on myös paljon erilaisia aktiviteetteja, ziplineä, koskenlaskua, paljon erilaisia vuoristovaellusreittejä, ratsastusta yms. Ulkoliikuntaan sää on erinomainen: aamuiset juoksulenkit ulkona onnistuvat juuri sopivan viileässä säässä.
-
 
 ## Byrokratia
 
