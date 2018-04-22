@@ -49,7 +49,7 @@ Boquetessa on paljon Yhdysvaltalaisia ja jonkun verran Eurooppalaisia pysyväis/
 Rakennukset ovat enimmäkseen omakotitaloja, kerrostaloja ei ole juuri lainkaan. Asuinalueen valitsemalla voit valita itsellesi mieluisen naapurien määrän ja läheisyyden. Mikään asuinalue ei ole mitenkään erityisen kallis.
 
 ### Aikavyöhyke
-Panamassa ei ole kesä eikä talviaikoja: Panaman aikavyöhyke on Eastern Standard Time (EST) vuoden ympäri. Suomessa joudut sotkemaan sisäistä kelloasi kahdesti vuodessa, koska byrokraatit eivät saa aikaiseksi luopua kesäajasta (harva äänestäjä sitä oikeasti taitaa haluta). Täällä on yksi ja sama aika ympäri vuoden.
+Panamassa ei ole kesä- eikä talviaikoja: Panaman aikavyöhyke on Eastern Standard Time (EST) vuoden ympäri. Suomessa joudut sotkemaan sisäistä kelloasi kahdesti vuodessa, koska byrokraatit eivät saa aikaiseksi luopua kesäajasta (harva äänestäjä sitä oikeasti taitaa haluta). Täällä on yksi ja sama aika ympäri vuoden. Jos teet töitä/bisnestä yhdysvaltalaisten tai kanadalaisten kanssa, niin täällä olet heidän kanssaan samoilla aikavyöhykkeillä.
 
 ### Kahvi
 Maailman parasta kahvia: Täällä kasvaa kahvia joka puolella. Korkean ilmanalan johdosta se on myös erittäin laadukasta. Myös maailman kallein kahvi Panama Geisha tulee Boquetesta.
