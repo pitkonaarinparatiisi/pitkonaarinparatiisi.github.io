@@ -16,7 +16,7 @@ Maailmassa on paljon maita joissa on halpaa, kivat ilmat, ja... täysin onnettom
 
 ## Verotus
 
-Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloa tai ansiotuloa, tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta: veroprosentti niistä on nolla. Arvonlisävero Panamassa on 7% eikä sitä peritä ruokakaupan ruoasta. Muut Suomesta tutut verot joko loistavat poissaolollaan (ajoneuvovero, polttoainevero jne 0%) tai ne ovat hyvin matalia (alkoholivero 10%). Alle $120 000 arvoisista asunnoista ei tarvitse maksaa kiinteistöveroa. 
+Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloa tai ansiotuloa, tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta: veroprosentti niistä on nolla. Arvonlisävero Panamassa on 7% eikä sitä peritä ruokakaupan ruoasta. Muut Suomesta tutut verot joko loistavat poissaolollaan (ajoneuvovero, polttoainevero jne 0%) tai ne ovat hyvin matalia (alkoholivero 10%). Alle $120 000 arvoisista asunnoista ei tarvitse maksaa kiinteistöveroa. Muita veronluonteisia maksuja voi joutua maksamaan ulkomailta tilattavista tuotteista, lisätietoja alempana kohdassa "tavarat".
 
 ## Turvallisuus
 
