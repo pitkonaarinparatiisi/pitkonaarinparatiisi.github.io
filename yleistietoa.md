@@ -9,6 +9,10 @@ Panama on lähellä päiväntasaajaa, mikä tarkoittaa että lämpötilat ovat t
 
 Öisin on viileämpää, mutta ei kylmää. Sade- eli vihreällä kaudella sataa enemmän kuin kuivalla kaudella, mutta silloinkin lähinnä iltapäivisin muutaman tunnin pätkissä. Kuivallakin kaudella vettä tulee juuri sen verran, että ympäristö kestää vihreänä.
 
+## Erinomaiset nettiyhteydet
+
+Maailmassa on paljon maita joissa on halpaa, kivat ilmat, ja... täysin onnettomat nettiyhteydet. Boqueten nettiyhteysvaihtoehdot ovat, jos nyt eivät ihan maailman parhaat, niin kuitenkin erittäin hyvät. [Cable Onda](https://www.cableonda.com/residencial/internet/internet) palvelee suurimmassa osassa Boquetea, ja heillä on tarjolla jopa 500mb kaapelinetti rajoittamattomalla datalla. Jos muutat johonkin syrjäisempään kolkkaan jossa Cable Onda ei (vielä) tarjoa yhteyksiä, niin [ADSL-yhteyksiäkin](http://internetactivo.com/internet-residencial/) on tarjolla, vaikkakin ne ovat kalliita. [Mobiilinetti](https://www.claro.com.pa/personas/servicios/servicios-moviles/prepago/planes-y-precios/) toimii 4G:nä, mutta datan määrä on rajoitettu. Missä tahansa toimiva, mutta kallis vaihtoehto on [satelliittinetti](http://www.ptpanama.com/). Suosittelemme, että taloa vuokratessasi varmistat että sinne on saatavissa Cable Ondan yhteys. Kun otat sen lisäksi varalle mobiilinetin (ei välttämätön), niin sinulla on 99,9% varmuudella toimivat nopeat ja kohtuuhintaiset nettiyhteydet.
+
 ## Verotus
 Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloja tai ansiotuloa tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta. ALV on 7% eikä sitä peritä ruokakaupan ruoasta. muita veroja ei juurikaan ole.
 
