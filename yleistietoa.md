@@ -16,7 +16,7 @@ Maailmassa on paljon maita joissa on halpaa, kivat ilmat, ja... täysin onnettom
 
 ## Verotus
 
-Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloa tai ansiotuloa, tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta: veroprosentti niistä on nolla. Arvonlisävero Panamassa on 7% eikä sitä peritä ruokakaupan ruoasta. Muut Suomesta tutut verot joko loistavat poissaolollaan (ajoneuvovero, polttoainevero jne 0%) tai ne ovat hyvin matalia (alkoholivero 10%). Alle $120 000 arvoisista asunnoista ei tarvitse maksaa kiinteistöveroa. Muita veronluonteisia maksuja joutuu maksamaan lähinnä ulkomailta tilattavista tuotteista, joista pitää maksaa tullit: 0-15% riippuen tuotteesta (+ALV 7% ja kuljetuskustannukset). Yhdysvalloista tilattavista tuotteista ei tarvitse maksaa tulleja eikä veroa, jos lähetyksen yhteishinta kuljetuskustannuksineen (ns. CIF-hinta: Cost, Insurance, Freight) on alle $100.
+Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloa tai ansiotuloa, tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta: veroprosentti niistä on nolla. Arvonlisävero Panamassa on 7% eikä sitä peritä ruokakaupan ruoasta. Muut Suomesta tutut verot joko loistavat poissaolollaan (ajoneuvovero, polttoainevero jne 0%) tai ne ovat hyvin matalia (alkoholivero 10%). Alle $120 000 arvoisista asunnoista ei tarvitse maksaa kiinteistöveroa. 
 
 ## Turvallisuus
 
@@ -36,11 +36,11 @@ Panama ei ole varsinainen halpamaa, siinä mielessä kuin esim. jotkin Kaakkois-
 
 ### Tavarat
 
-Nettishoppailu on helppoa, koska täällä on paljon erilaisia palveluita (Mailboxes Etc, Airbox Express, Miami Express) joiden avulla voit tilata nettikaupoista (kuten Amazonista) tavarat Miamiin, ja ne toimitetaan sitten tänne.
+Nettishoppailu on helppoa, koska täällä on paljon erilaisia palveluita ([Mailboxes Etc](http://www.mbe-ca.com/), [Airbox Express](https://airbox.com.pa/eng/), [Miami Express](http://miamiexpress.com/home/)) joiden avulla voit tilata nettikaupoista (kuten Amazonista) tavarat Miamiin, ja ne toimitetaan sitten tänne.
 
-Ulkomailta tilattavista tuotteista voi joutua maksamaan 5-15% tuontitullia, mutta USA:n päässä myyntiveroa ei tarvitse maksaa, joten hintataso ei ole kovin paljon kalliimpi kuin USA:ssa kotiin tilatessa.
+Ulkomailta tilattavista tuotteista voi joutua maksamaan 5-15% tuontitullia, mutta USA:n päässä myyntiveroa ei tarvitse maksaa, joten hintataso ei ole kovin paljon kalliimpi kuin USA:ssa kotiin tilatessa. Yhdysvalloista tilattavista tuotteista ei tarvitse maksaa tulleja eikä veroa, jos lähetyksen yhteishinta kuljetuskustannuksineen (ns. CIF-hinta: Cost, Insurance, Freight) on alle $100. 
 
-Alle $100 kokonaisarvon (sisältäen kuljetuskustannukset) tilauksista tulleja ei tarvitse maksaa. Paikallisiakin kauppoja on erityisesti Davidissa ja tietysti sitten kauempana Panama Cityssä. Boquetesta saa kaikki tarpeelliset päivittäistavarat.
+Paikallisiakin kauppoja on erityisesti Davidissa ja tietysti sitten kauempana Panama Cityssä. Boquetesta saa kaikki tarpeelliset päivittäistavarat.
 
 ### Palvelut
 
