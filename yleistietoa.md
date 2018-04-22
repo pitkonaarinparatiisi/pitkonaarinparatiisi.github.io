@@ -38,7 +38,7 @@ Panama ei ole varsinainen halpamaa, siinä mielessä kuin esim. jotkin Kaakkois-
 
 Nettishoppailu on helppoa, koska täällä on paljon erilaisia palveluita ([Mailboxes Etc](http://www.mbe-ca.com/), [Airbox Express](https://airbox.com.pa/eng/), [Miami Express](http://miamiexpress.com/home/)) joiden avulla voit tilata nettikaupoista (kuten Amazonista) tavarat Miamiin, ja ne toimitetaan sitten tänne.
 
-Ulkomailta tilattavista tuotteista voi joutua maksamaan 5-15% tuontitullia, mutta USA:n päässä myyntiveroa ei tarvitse maksaa, joten hintataso ei ole kovin paljon kalliimpi kuin USA:ssa kotiin tilatessa. Yhdysvalloista tilattavista tuotteista ei tarvitse maksaa tulleja eikä veroa, jos lähetyksen yhteishinta kuljetuskustannuksineen (ns. CIF-hinta: Cost, Insurance, Freight) on alle $100. 
+Yhdysvalloista tilattavista tuotteista ei tarvitse maksaa tulleja eikä veroa, jos lähetyksen yhteishinta kuljetuskustannuksineen (ns. CIF-hinta: Cost, Insurance, Freight) on alle $100. Jos CIF-hinta on yli $100, niin tilauksen hintaan lisätään kuljetuskustannusten lisäksi tuontitulli 5-15% riippuen tilauksen sisällöstä, sekä ALV 7%. USA:n päässä myyntiveroa ei tarvitse maksaa, joten hintataso ei ole kovin paljon kalliimpi kuin USA:ssa kotiin tilatessa olisi. Varmista kuitenkin tilausta tehdessäsi, ettei myyjä vahingossa laskuta sinulta myyntiveroa.
 
 Paikallisiakin kauppoja on erityisesti Davidissa ja tietysti sitten kauempana Panama Cityssä. Boquetesta saa kaikki tarpeelliset päivittäistavarat.
 
