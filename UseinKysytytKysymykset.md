@@ -58,4 +58,4 @@ Jos kaupungin sykettä kaipaa, niin alle tunnin ajomatkan päässä on Panaman t
 
 ## Eikö (kohde x) olisi parempi paikka?
 
-Kaikki on tietenkin henkilökohtaisista mieltymyksistä kiinni. Me olemme oman tutkimustyömme tehneet ja olemme sitä mieltä että meille, ja todennäköisesti monille muille, Boquete on paras paikka. Jollekin muulle joku muu paikka voi olla paras, eikä meillä ole tarvetta väittää kenellekään vastaan. Koska olemme kiertäneet niin paljon eri maita, niin kirjoitamme varmasti jossakin vaiheessa erillisen artikkelin yleisimmin harkittujen maiden eroista, ja hyvistä ja huonoista puolista. Vaihtoehtojahan riittää.
+Kaikki on tietenkin henkilökohtaisista mieltymyksistä kiinni. Me olemme oman tutkimustyömme tehneet ja olemme sitä mieltä että meille, ja todennäköisesti monille muille, Boquete on paras paikka. Jollekin muulle joku muu paikka voi olla paras, eikä meillä ole tarvetta väittää kenellekään vastaan. Koska olemme kiertäneet niin paljon eri maita, niin kirjoitamme varmasti jossakin vaiheessa erillisen artikkelin yleisimmin harkittujen maiden eroista, ja hyvistä ja huonoista puolista. Vaihtoehtojahan riittää, ja hyvä niin.
