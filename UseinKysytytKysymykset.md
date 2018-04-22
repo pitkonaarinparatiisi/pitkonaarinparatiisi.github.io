@@ -10,7 +10,7 @@ Tämä tuntuu olevan monen huolenaihe, mikä on sinänsä ymmärrettävää, vai
 
 - **Panama yleisesti, ja Boquete erityisesti on turvallinen paikka**
 
-Panamassa yleensäkin on paljon ulkomaalaisia, joista monet varakkaitakin. Näin on myös Boquetessa. Täällä on esimerkiksi paljon kalliita omakotitaloja, eikä niiden ympärillä ole sähköaitoja tai vartijoita. Boquetessa asuu vakituisesti yli 3000 ulkomaalaista yli kolmestakymmenestä maasta, ja lisäksi täällä on lyhytaikasempia turisteja. Vaikka tänne tulisi huomenna parikymmentä uutta suomalaista, niin kukaan ei huomaisi mitään. Ulkomaalaisia tulee ja menee.
+Panamassa yleensäkin on paljon ulkomaalaisia, joista monet varakkaitakin. Näin on myös Boquetessa. Täällä on esimerkiksi paljon kalliita omakotitaloja, eikä niiden ympärillä ole sähköaitoja tai vartijoita. Aidat ovat n. metrin korkuisia ja niiden pääasiallinen tarkoitus on pitää koirat ja lapset sisäpuolella. Boquetessa asuu vakituisesti yli 3000 ulkomaalaista yli kolmestakymmenestä maasta, ja lisäksi täällä on lyhytaikasempia turisteja. Vaikka tänne tulisi huomenna parikymmentä uutta suomalaista, niin kukaan ei huomaisi mitään. Ulkomaalaisia tulee ja menee.
 
 Rikollisuus Panamassa on vähäistä, eikä täällä tarvitse pelätä mitään väkivaltaisia rikollisjengejä tai mafiaa. Rikollisuutta on kaikissa maissa, eikä naiivi pidä olla missään, mutta Boquetessa rikollisuutta on hyvin vähän.
 
