@@ -2,7 +2,9 @@
 
 ## Minkälainen kulttuuri ja elämäntyyli Boquetessa on?
 
-Täällä on oikeastaan kaksi eri kulttuuria, paikallisten oma ja ulkomaalaisten mukanaan tuoma kulttuuri. Koska erityisesti USA:sta kotoisin olevia on paljon, niin tämä tuntuu usein amerikkalaiselta pikkukylältä (hyvässä mielessä). Elämäntyyli riippuu tietenkin eniten omasta elämäntilanteestasi ja siitä mitä itsellesi haluat. Yleensä ottaen meininki on sopivan rentoa. Täällä ei ole suuremmin tarvetta stressata asioista, joten jos et tuo stressiä mukanasi niin et sitä myöskään täältä löydä. [Tranquilo](http://www.spanishdict.com/translate/tranquilo)!
+Täällä on oikeastaan kaksi eri kulttuuria, paikallisten oma ja ulkomaalaisten mukanaan tuoma kulttuuri. Koska erityisesti USA:sta kotoisin olevia on paljon, niin tämä tuntuu usein amerikkalaiselta pikkukylältä (hyvässä mielessä). Tässä hyvä [video](https://youtu.be/MS9jd3REekU?t=845) (linkki vie videon loppupuolelle keskusta-ajeluun, sitä ennen on laitakaupungilla pyörimistä) siitä miltä täällä näyttää. Video on vuodelta 2011, mutta mitään kovin radikaaleja muutoksia ei ole tapahtunut.
+
+Elämäntyyli täällä riippuu tietenkin eniten omasta elämäntilanteestasi ja siitä mitä itsellesi haluat. Yleensä ottaen meininki on sopivan rentoa. Täällä ei ole suuremmin tarvetta stressata asioista, joten jos et tuo stressiä mukanasi niin et sitä myöskään täältä löydä. [Tranquilo](http://www.spanishdict.com/translate/tranquilo)!
 
 ## Turvallisuus - eikö kylällinen pitkonörttejä ole otollinen kohde rikollisille?
 
