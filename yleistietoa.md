@@ -16,7 +16,7 @@ Maailmassa on paljon maita joissa on halpaa, kivat ilmat, ja... täysin onnettom
 
 ## Verotus
 
-Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloja tai ansiotuloa tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta. ALV on 7% eikä sitä peritä ruokakaupan ruoasta. Muut Suomesta tutut verot joko loistavat poissaolollaan (ajoneuvovero, polttoainevero jne 0%) tai ne ovat hyvin matalia (alkoholivero 10%). Alle $120 000 arvoisista asunnoista ei tarvitse maksaa kiinteistöveroa. Muita veronluonteisia maksuja joutuu maksamaan lähinnä ulkomailta tilattavista tuotteista, joista pitää maksaa tullit: 0-15% riippuen tuotteesta (+ALV 7% ja kuljetuskustannukset).
+Verotus on lähellä nollaa. Erityisen huomionarvoista on se, ettei ulkomailta saatuja tuloja veroteta. Olivat ne sitten pääomatuloja tai ansiotuloa tai lähtöisin kryptovaluuttojen mainaamisesta, myymisestä tai treidaamisesta. ALV on 7% eikä sitä peritä ruokakaupan ruoasta. Muut Suomesta tutut verot joko loistavat poissaolollaan (ajoneuvovero, polttoainevero jne 0%) tai ne ovat hyvin matalia (alkoholivero 10%). Alle $120 000 arvoisista asunnoista ei tarvitse maksaa kiinteistöveroa. Muita veronluonteisia maksuja joutuu maksamaan lähinnä ulkomailta tilattavista tuotteista, joista pitää maksaa tullit: 0-15% riippuen tuotteesta (+ALV 7% ja kuljetuskustannukset). Yhdysvalloista tilattavista tuotteista ei tarvitse maksaa tulleja eikä veroa, jos lähetyksen yhteishinta kuljetuskustannuksineen (ns. CIF-hinta: Cost, Insurance, Freight) on alle $100.
 
 ## Turvallisuus
 
