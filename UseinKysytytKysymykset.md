@@ -8,19 +8,19 @@ Täällä on oikeastaan kaksi eri kulttuuria, paikallisten oma ja ulkomaalaisten
 
 Tämä tuntuu olevan monen huolenaihe, mikä on sinänsä ymmärrettävää, vaikka tuntuukin täältä katsottuna usein liioitellulta. Paljon maailmaa kiertäneinä olemme käyttäneet paljon aikaa turvallisuusasioiden miettimiseen, emmekä jätä tätä näkökohtaa huomioimatta vaikka Boquete onkin turvallinen paikka. Laajennetaanpa ensin hieman näkökulmaa:
 
-### 1: Panama yleisesti, ja Boquete erityisesti on turvallinen paikka
+- **Panama yleisesti, ja Boquete erityisesti on turvallinen paikka**
 
 Panamassa yleensäkin on paljon ulkomaalaisia, joista monet varakkaitakin. Näin on myös Boquetessa. Täällä on esimerkiksi paljon kalliita omakotitaloja, eikä niiden ympärillä ole sähköaitoja tai vartijoita. Vaikka tänne tulisi huomenna 20 uutta suomalaista, niin asia ei herättäisi ihmetystä. Ulkomaalaisia tulee ja menee.
 
 Rikollisuus Panamassa on vähäistä, eikä täällä tarvitse pelätä mitään väkivaltaisia rikollisjengejä tai mafiaa. Rikollisuutta on kaikissa maissa, eikä naiivi pidä olla missään, mutta Boquetessa rikollisuutta on hyvin vähän.
 
-### 2: Maalaisjärjen käyttö minimoi riskit
+- **Maalaisjärjen käyttö minimoi riskit**
 
 Kuinka moni tietää omaisuudestasi? Niin moni kenelle päätät itse kertoa. Suomessa tietenkin verotiedot julkistetaan median riepoteltavaksi, mikä ei välttämättä ole etusi (yksi syy lisää harkita muuttamista). Täällä mahdollinen omaisuutesi pysyy omana tietonasi, jos et itse lähde huutelemaan olevasi kylän kovin massikeisari. Vahva suosituksemme on, että esiinnyt täällä yrittäjänä tai digitaalisena nomadina, vietät normaalia elämää ja käytät maalaisjärkeäsi. 
 
 Bitcoinista voi ja kannattaa ihmisten kanssa puhua yleisellä tasolla, ja täällä on jo valmiiksi muitakin Bitcoin-harrastajia. Olipa sinulla omaisuutta tai ei, tai olipa se tehty Bitcoinin avulla tai muilla tavoin, niin rikkaana ja tyhmänä ei kannata esiintyä missään. Esiinny täällä normaalina oman elantonsa tienaavana ihmisenä, ja nauti elämästä.
 
-### 3: Voimme auttaa toisiamme myös turvallisuusasioissa
+- **Voimme auttaa toisiamme myös turvallisuusasioissa**
 
 Kun meitä tulee tänne enemmän, niin voimme myös nostaa yhteistä turvallisuustasoamme eri tavoilla. Olemme jo miettineet näitä asioita paljon, ja yhdessä voimme miettiä lisää. Yksityiskohtien avaamisesta täällä netissä ei ole hyötyä, joten puhutaan niistä sitten tänne tulevien kanssa.
 
@@ -55,4 +55,3 @@ Jos kaupungin sykettä kaipaa, niin alle tunnin ajomatkan päässä on Panaman t
 ## Eikö (kohde x) olisi parempi paikka?
 
 Kaikki on tietenkin henkilökohtaisista mieltymyksistä kiinni. Me olemme oman tutkimustyömme tehneet ja olemme sitä mieltä että meille, ja todennäköisesti monille muille, Boquete on paras paikka. Jollekin muulle joku muu paikka voi olla paras, eikä meillä ole tarvetta väittää kenellekään vastaan. Koska olemme kiertäneet niin paljon eri maita, niin kirjoitamme varmasti jossakin vaiheessa erillisen artikkelin yleisimmin harkittujen maiden eroista, ja hyvistä ja huonoista puolista. Vaihtoehtojahan riittää.
-
