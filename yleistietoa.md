@@ -82,7 +82,7 @@ Täällä ei ole myöskään suurten kaupunkien meluongelmia, vaan pelkästään
 
 ### Vapaa-aika
 
-Lähialueilla paljon erilaista säätä ja tekemistä: Panama on kapea maa-alue Karibianmeren ja Tyynen valtameren välissä. Tyynelle valtamerelle pääsee autolla tunnissa, Karibialle kolmessa tai neljässä tunnissa. Boquetessa on myös paljon erilaisia aktiviteetteja, [ziplineä](https://www.youtube.com/watch?v=EDx9AmxKcUo), [koskenlaskua](https://www.youtube.com/watch?v=_l59lQpN7k0), paljon erilaisia vuoristovaellusreittejä, ratsastusta yms. Ulkoliikuntaan sää on erinomainen: aamuiset juoksulenkit ulkona onnistuvat juuri sopivan viileässä säässä.
+Lähialueilla paljon erilaista säätä ja tekemistä: Panama on kapea maa-alue Karibianmeren ja Tyynen valtameren välissä. Tyynelle valtamerelle pääsee autolla tunnissa, Karibialle kolmessa tai neljässä tunnissa. Boquetessa on myös paljon erilaisia aktiviteetteja, [ziplineä](https://www.youtube.com/watch?v=EDx9AmxKcUo), [koskenlaskua](https://www.youtube.com/watch?v=_l59lQpN7k0), paljon erilaisia [vuoristovaellusreittejä](https://www.youtube.com/watch?v=KqYiYsXFZ2M), ratsastusta yms. Ulkoliikuntaan sää on erinomainen: aamuiset juoksulenkit ulkona onnistuvat juuri sopivan viileässä säässä.
 
 ## Byrokratia
 
