@@ -50,6 +50,10 @@ Pysyvän oleskeluluvan saatuasi saat paikallisen henkilökortin joka oikeuttaa m
 
 Viiden vuoden jälkeen pysyvän oleskeluluvan saamisesta voit hakea Panaman kansalaisuutta ja saada passin. Panama ei pakota sinua luopumaan Suomen kansalaisuudesta, eli saat kaksoiskansalaisuuden. Kummatkin passit kannattaa säilyttää voimassa, koska se tekee maailmalla matkustelusta helpompaa. Voit sitten aina rajoja ylittäessäsi tilanteen mukaan valita, kumman maan kansalaisuutta käytät. 
 
+### Lainat pankista
+
+Pankit vaativat pysyvän oleskeluluvan jos haet täältä esimerkiksi asuntolainaa.
+
 ## Kaksoiskansalaisuuden edut
 
 ### Aina passi ja paikka mihin mennä, kävi maailmassa miten tahansa
@@ -91,7 +95,7 @@ Sinun tarvitsee hankkia muutama dokumentti Suomesta oleskeluluvan hakemista vart
 * Pankkisuosituskirje pankistasi, jota tarvitaan pankkitilin avaamiseen ja mahdollisesti asunnon vuokraamiseen.
 * Rikosrekisteriote, jonka voit hakea osoitteesta <http://www.oikeusrekisterikeskus.fi/fi/index/asiakaspalvelu/rekisteritotteetjatodistukset/rikosrekisteri/yksityisenhenkilontiedonsaantioikeus.html>
 
-Väestörekisteriotteessa ja rikosrekisteriotteessa pitää olla Apostille-todistus. Saat nämä kätevästi samalla kun haet väestörekisteriotteen, joten kannattaa ensimmäisenä tilata rikosrekisteriote joka tulee kotiin postilla noin viikossa ja maksaa 12€.
+Väestörekisteriotteessa ja rikosrekisteriotteessa pitää olla [Apostille-todistus](https://www.maistraatti.fi/fi/Palvelut/julkinen_notaari/Apostille-todistus/). Saat nämä kätevästi Maistraatista samalla kun haet väestörekisteriotteen, joten kannattaa ensimmäisenä tilata rikosrekisteriote joka tulee kotiin postilla noin viikossa ja maksaa 12€.
 
 Väestörekisteriote ja Apostille-todistukset maksavat yhteensä 35€.
 
