@@ -74,7 +74,7 @@ Kaksoiskansalaisena et ole yhden maan poliitikkojen päätösten ja korruption a
 
 ### Yksi viisumivapaa maa enemmän...
 
-Vaikka Panaman passilla ei Suomen passiin verrattuna pääse maailmalla kovin vapaasti matkustamaan, niin yksi mielenkiintoinen yksityiskohta Panaman passiin kuitenkin liittyy: pääset sillä Venäjälle ilman viisumia 90 päiväksi. Ja kuten todettu, niin viiden vuoden aikana maailma voi muuttua paljonkin. Kiinalla on Panaman kanssa paljon yhteistyöprojekteja, ja varsinkin Panama Cityssä on paljon kiinalaisia, joten ehkä hyvällä tuurilla tulevaisuudessa Panaman passilla voisi päästä Kiinaan ilman viisumia? Aina voi ainakin toivoa :)
+Vaikka Panaman passilla ei Suomen passiin verrattuna pääsekään maailmalla kovin vapaasti matkustamaan, niin yksi mielenkiintoinen yksityiskohta Panaman passiin kuitenkin liittyy: pääset sillä Venäjälle ilman viisumia 90 päiväksi. Ja kuten todettu, niin viiden vuoden aikana maailma voi muuttua paljonkin. Kiinalla on Panaman kanssa paljon yhteistyöprojekteja, ja varsinkin Panama Cityssä on paljon kiinalaisia, joten ehkä hyvällä tuurilla tulevaisuudessa Panaman passilla voisi päästä Kiinaan ilman viisumia? Aina voi ainakin toivoa :)
 
 
 ## Oleskeluluvan hakuprosessi
