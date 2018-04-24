@@ -31,7 +31,10 @@ Boquetessa ei ole elokuvateatteria, joten kaikilla herkuilla varustettu riittäv
 
 _Kuvassa näkyvä tontti ei ehkä ole myynnissä, mutta jotain vastaavankaltaista täältä voi varmasti löytää._
 
-Täsmennys muutamiin väärinkäsityksiin joita ajatus yhteisestä asuinalueesta voi joissakin aiheuttaa: ajatuksena ei ole asua kylki kyljessä laulamassa Kumbayaa. Ajatuksenamme on löytää riittävän iso tontti, että naapurin normaali (tai epänormaali) elämä ei pääse häiritsemään. Yllä olevassa kuvassa näkyvä esimerkkialue on neliökilometrin kokoinen.
+### Täsmennyksiä muutamiin väärinkäsityksiin joita ajatus yhteisestä asuinalueesta voi joissakin aiheuttaa
+
+Ideana ei ole asua kylki kyljessä laulamassa Kumbayaa. Ajatuksenamme on löytää riittävän iso tontti, että naapurin normaali (tai epänormaali) elämä ei pääse häiritsemään. Yllä olevassa kuvassa näkyvä esimerkkialue on neliökilometrin kokoinen. Jos siellä olisi 10 taloa, niin matkaa naapuriin olisi keskimäärin n. 300 metriä. Pyrimme myöskin mahdollisimman vähäisiin yhteisiin velvoitteisiin, päätavoite on kustannusten jakaminen ja palveluiden helpompi järjestäminen, ei minkään lahkon perustaminen.
+
 
 ## Laskelmia
 
