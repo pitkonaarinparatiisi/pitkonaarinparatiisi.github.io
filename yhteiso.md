@@ -35,16 +35,12 @@ _Kuvassa näkyvä tontti ei ehkä ole myynnissä, mutta jotain vastaavankaltaist
 
 Ideana ei ole asua kylki kyljessä laulamassa Kumbayaa. Ajatuksenamme on löytää riittävän iso tontti, että naapurin normaali (tai epänormaali) elämä ei pääse häiritsemään. Yllä olevassa kuvassa näkyvä esimerkkialue on neliökilometrin kokoinen. Jos siellä olisi 10 taloa, niin matkaa naapuriin olisi keskimäärin n. 300 metriä. Tiiviimminkin voi asua jos siltä tuntuu, kaikkihan on täysin sovittavissa. Pyrimme myöskin mahdollisimman vähäisiin yhteisiin velvoitteisiin, päätavoite on kustannusten jakaminen ja palveluiden helpompi järjestäminen, ei minkään lahkon perustaminen.
 
-
 ## Laskelmia
 
-Lue lisää laskelmista ja ideoista, mitä kaikkea täällä voisi olla mahdollista hankkia.
-
-Tähän artikkeliin on listattuna muutamia esimerkkejä/ideoita sekä laskelmia helposti jaettavista hankinnoista. Pienempiäkin (alle 1000e arvoisia) resursseja voi tietysti jakaa, mutta niitä lienee turha listata tänne erikseen. Jokainen vastaa kuitenkin ensisijaisesti itsestään/perheestään, koska emme ole sosialistien paratiisi. 
+Olemme listanneet tähän muutamia _laskennallisia_ esimerkkejä/ideoita helposti jaettavista hankinnoista. Pienempiäkin (alle 1000e arvoisia) resursseja voi tietysti jakaa, mutta niitä lienee turha listata tänne erikseen. Jokainen vastaa kuitenkin ensisijaisesti itsestään/perheestään, koska emme ole sosialistien paratiisi. Näiden mahdollisesti hankittavien resurssien jakaminen ei myöskään riipu millään tavalla yllä mainitusta asuinalueesta: yhteishankintoihin voit osallistua tai olla osallistumatta, riippumatta asuntosi sijainnista.
 
 **Disclaimer:**
-Laskelmissa olevissa esimerkeissä käytetty Bitcoinin $50 000 hinta ei tietenkään ole minkäänlainen lupaus. Hinta voi mennä siitä yli tai ali (tai nollaan, mistäs sitä tietää). Koska olemme Bitcoin-harrastajia, niin
-haluamme kuitenkin herätellä ihmisiä miettimään mahdollisen hinnannousun vaikutuksia ja mahdollisuuksia. Emme ota kantaa erilaisten hintaskenaarioiden todennäköisyyteen, vaan suosittelemme että muodostat itse oman mielipiteesi Bitcoinin menestymisen mahdollisuuksista. Jos olet sitä mieltä että kyseessä on vain nörttien leikkiraha, niin älä sijoita. Jos sijoitat, niin tee perustelut ensin itsellesi selväksi. **Jokainen hodlaa itse omat coininsa.**
+Laskelmissa olevissa esimerkeissä käytetty Bitcoinin $50 000 hinta ei tietenkään ole minkäänlainen lupaus. Hinta voi mennä siitä yli tai ali (tai nollaan, mistäs sitä tietää). Koska olemme Bitcoin-harrastajia, niin haluamme kuitenkin herätellä ihmisiä miettimään mahdollisen hinnannousun vaikutuksia ja mahdollisuuksia. Emme ota kantaa erilaisten hintaskenaarioiden todennäköisyyteen, vaan suosittelemme että muodostat itse oman mielipiteesi Bitcoinin menestymisen mahdollisuuksista. Jos olet sitä mieltä että kyseessä on vain nörttien leikkiraha, niin älä sijoita. Jos sijoitat, niin tee perustelut ensin itsellesi selväksi. **Jokainen hodlaa itse omat coininsa.**
 
 Teitpä mitä tahansa, niin älä ainakaan perusta talouttasi Bitcoinin hinnannousun oletukselle.
 
