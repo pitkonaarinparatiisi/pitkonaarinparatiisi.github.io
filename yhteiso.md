@@ -9,6 +9,9 @@ Yhteisellä koordinoinnilla voimme kuitenkin saavuttaa enemmänkin ja voimme jak
 
 Vastaavia asioita on paljon: yksittäisinä hankintoina kalliita asioita, joita tarvitaan satunnaisesti. Jakamalla näitä resursseja voimme saada niistä täyden hyödyn murto-osalla hinnasta. Samalla niiden hankintaan ja ylläpitoon liittyvä turha häsläys tippuu murto-osaan.
 
+### Yhteisö? Jaetut resurssit? Oletteko jotain kommunisteja tai lahkolaisia?
+
+Väärinkäsitysten välttämiseksi lienee paikallaan selventää, että minkäänlaista sosialistista kommuunia tänne ei todellakaan olla rakentamassa. Lähtökohta on se, että jokainen huolehtii itse itsestään, emmekä  tähtää minkäänlaisiin kokeellisiin utopioihin. Pyrimme hyödyntämään jakamistalouden hyviä puolia kapitalistisista lähtökohdista (tällaisessahan ei ole mitään uutta), ja jokainen voi täysin vapaasti valita oman osallistumisasteensa. Jos tuntuu siltä että haluat vaikka omistaa kokonaan oman auton tai asua vapaasti valitsemassasi paikassa, niin se ei ole muilta millään tavalla pois. Elämme omilla rahoillamme, emme toistemme rahoilla. Tämän sivun tarkoitus on vain ja ainoastaan herätellä ideoita siitä, minkälaisia _lisähyötyjä_ yhdessä toimimalla voi saavuttaa.
 
 
 ## Asuinalue
@@ -28,6 +31,7 @@ Boquetessa ei ole elokuvateatteria, joten kaikilla herkuilla varustettu riittäv
 
 _Kuvassa näkyvä tontti ei ehkä ole myynnissä, mutta jotain vastaavankaltaista täältä voi varmasti löytää._
 
+Täsmennys muutamiin väärinkäsityksiin joita ajatus yhteisestä asuinalueesta voi joissakin aiheuttaa: ajatuksena ei ole asua kylki kyljessä laulamassa Kumbayaa. Ajatuksenamme on löytää riittävän iso tontti, että naapurin normaali (tai epänormaali) elämä ei pääse häiritsemään. Yllä olevassa kuvassa näkyvä esimerkkialue on neliökilometrin kokoinen.
 
 ## Laskelmia
 
