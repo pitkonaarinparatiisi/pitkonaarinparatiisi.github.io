@@ -130,9 +130,7 @@ Hinta jaettuna kymmenen ihmisen kesken: $50 000
 * $50000/BTC ja 5 henkeä: $20 000
 * $50000/BTC ja 10 henkeä: $10 000
 
-
 ### Lentokone
-
 
 Lähdetään siitä oletuksesta että mitään yksityislentokoneita ei vielä tämän porukan nykyvarallisuudella ja Bitcoinin nykyhinnalla ole joko varaa tai halua ostaa. Muutetaan siis laskentakaavaa hieman, ja mietitään mitä saisi kymmenellä Bitcoinilla (viiden ihmisen kesken jaettuna 2 Bitcoinia, eli $10k hinnalla ostettuna $20k tämänhetkinen sijoitus per henki) _jos_ hinta nousee. Jos ei nouse, niin sitten jätetään koneet ostamatta tai hankitaan rahat muilla keinoilla. Panamassa (ja netissä) yrittäminen kannattaa aina!
 
