@@ -16,7 +16,7 @@ Voi myös käydä niin, että moni meistä saavuttaa elintason jossa lisärahan 
 
 Täällä voisimme lyödä viisaat päät yhteen ja miettiä miten saada maailmasta parempi paikka kryptovaluuttojen, sijoittamisen ja yrittäjyyden kautta.
 
-Jos Suomesta peritty sosialistinen moraali kolkuttaa takaraivossa ja luo huonoa omaatuntoa, kun et maksa veroja Suomeen, niin kysy itseltäsi: voitko luoda maailmaan parhaiten arvoa elättämällä Suomen puolimiljoonaista virkamiesarmeijaa, vai sijoitatko saman rahan mieluummin johonkin missä se auttaa [eniten tarvitsevia tehokkaasti](https://www.effectivealtruism.org/)?
+Jos Suomesta peritty sosialistinen moraali kolkuttaa takaraivossa ja luo huonoa omaatuntoa, kun et maksa veroja Suomeen, niin kysy itseltäsi: voitko luoda maailmaan parhaiten arvoa elättämällä Suomen puolimiljoonaista virkamiesarmeijaa, vai sijoitatko saman rahan (ja ennenkaikkea säästyneen energian!) mieluummin johonkin missä se auttaa [eniten tarvitsevia tehokkaasti](https://www.effectivealtruism.org/)?
 
 Täällä voit säästää verorahat ensin tukemaan omaa hyvinvointiasi, ja kun omasta mielestäsi riittävä taso on saavutettu, niin voit alkaa käyttämään resurssejasi muuten hyödyllisesti (jos niin haluat). Emme ota kantaa siihen, mikä "riittävän tason" pitäisi kenellekin olla. Täällä omistat itse oman omaisuutesi, aikasi ja energiasi, ja päätät vapaasti miten ne sijoitat.
 
