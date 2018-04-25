@@ -25,7 +25,7 @@ Sähkökatkoilla ei olisi väliä, jos meillä olisi oma aurinkosähköfarmi. Au
 
 Myös "luksusosaston" hankinnat ja järjestelyt onnistuisivat lähekkäin asuessa huomattavasti paremmin. Voisimme myös palkata täysipäiväistä henkilökuntaa (siivoojat, kokit, autokuskit, puutarhurit yms) hyvin kohtuullisilla kustannuksilla.
 
-Yksi lisähyöty yhteisestä asuinalueesta on myös suurempi paikkariippumattomuus: talosi vuokraaminen vaikkapa puoleksi vuodeksi helpottuu huomattavasti, kun naapurit voivat auttaa vuokralaisen kanssa ja vahtia taloa.
+Yksi lisähyöty yhteisestä asuinalueesta on myös suurempi paikkariippumattomuus: talosi vuokraaminen vaikkapa puoleksi vuodeksi helpottuu huomattavasti, kun naapurit voivat auttaa vuokralaisen kanssa ja pitää taloa silmällä. **Voit siis matkustella vapaasti JA pitää pysyvän asunnon.**
 
 Boquetessa ei ole elokuvateatteria, joten kaikilla herkuilla varustettu riittävän iso kotiteatteri olisi hyvä idea.
 
