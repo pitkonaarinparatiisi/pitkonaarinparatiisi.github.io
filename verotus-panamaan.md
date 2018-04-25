@@ -5,7 +5,7 @@ Tässä artikkelissa kerrotaan minkälaisia asioita täytyy huomioida, jos tahdo
 Artikkelin sisältö pähkinänkuoressa hieman yksinkertaistaen:
 
 * Yleinen verovelvollisuutesi Suomeen lakkaa kun muutat pois Suomesta
-* Voit hakea pysyvää oleskelulupaa Panamaan jos haluat, vaikka **voit hyvin asua täällä myös turistiviisumilla**
+* Voit hakea [pysyvää oleskelulupaa](http://www.pitkonaarinparatiisi.info/pysyva-oleskelulupa.html) Panamaan jos haluat, vaikka **voit hyvin asua täällä myös turistiviisumilla**
 * Paperiasiat kannattaa hoitaa oman etusi takia kuntoon, stressiä asiasta ei tarvitse kuitenkaan ottaa
  
 
