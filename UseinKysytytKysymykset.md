@@ -2,7 +2,7 @@
 
 ## Entä jos en omista Bitcoinia, saati sitten ole minkäänlainen -nääri? Kannattaako miettiä muuttamista?
 
-Ehdottomasti kannattaa. Ei tänne muuttaminen ole rahasta kiinni, kohtuullisella rahankäytöllä pärjää hyvin. Ainoa vaatimus on, että pystyt itse rahoittamaan oman elämäsi. Jos olet paikkariippumaton yrittäjä tai vaikka freelancer, niin pystyt hyvin muuttamaan tänne jos tienaat reilun tonnin kuussa. Perinteisiä työpaikkoja täällä ei ole (tai on, mutta palkkataso tuskin riittää sinulle), joten jos haluat tienata täällä paikallisesti, niin esim. turismi-alan yrittäjäksi ryhtyminen voi olla yksi vaihtoehto. Ehdottomasti helpointa kuitenkin on, jos pystyt tuomaan oman tulovirtasi mukanasi.
+Ehdottomasti kannattaa. Ei tänne muuttaminen ole rahasta kiinni, kohtuullisella rahankäytöllä pärjää hyvin. Ainoa vaatimus on, että pystyt itse rahoittamaan oman elämäsi. Jos olet paikkariippumaton yrittäjä tai vaikka freelancer, niin pystyt hyvin muuttamaan tänne jos tienaat [reilun tonnin kuussa](http://www.pitkonaarinparatiisi.info/kustannukset.html "Muutto- ja asumiskustannukset Boquetessa"). Perinteisiä työpaikkoja täällä ei ole (tai on, mutta palkkataso tuskin riittää sinulle), joten jos haluat tienata täällä paikallisesti, niin esim. turismi-alan yrittäjäksi ryhtyminen voi olla yksi vaihtoehto. Ehdottomasti helpointa kuitenkin on, jos pystyt tuomaan oman tulovirtasi mukanasi.
 
 ## Minkälainen kulttuuri ja elämäntyyli Boquetessa on?
 
