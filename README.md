@@ -27,11 +27,12 @@ Yritämme kerätä tänne kaiken oleellisen tiedon Suomesta Boqueteen muuttamist
 Tieto on jaettu seuraaviin sivuihin:
 
 1. [Yleistietoa](yleistietoa.html)
-2. [Oleskelulupa, verovapaus ja kansalaisuus](oleskelulupa.html)
+2. [Suomen verotuksesta vapautuminen muuttamalla Panamaan](verotusPanamaan.html)
 3. [Muutto- ja asumiskustannukset](kustannukset.html)
 4. [Yhteisö](yhteiso.html)
-5. [Vastauksia usein kysyttyihin kysymyksiin](UseinKysytytKysymykset.html)
-6. [Kuvia Boquetesta](kuvia.html)
+5. [Pysyvä oleskelulupa ja kaksoiskansalaisuuden edut](pysyvaOleskelulupa.html)
+6. [Vastauksia usein kysyttyihin kysymyksiin](UseinKysytytKysymykset.html)
+7. [Kuvia Boquetesta](kuvia.html)
 
 Jos haluat lisätietoa tai olet jo tosissasi suunnittelemassa muuttoa, laita sähköpostia <pitkonaarinparatiisi@gmail.com> niin autamme mielellämme!
 
