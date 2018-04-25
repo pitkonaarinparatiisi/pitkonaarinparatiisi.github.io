@@ -1,5 +1,9 @@
 # Usein kysyttyjä kysymyksiä
 
+## Entä jos en omista yhtään Bitcoinia, saati sitten ole minkäänlainen -nääri? Kannattaako miettiä muuttamista?
+
+Ehdottomasti kannattaa. Ei tänne muuttaminen ole rahasta kiinni, hyvin kohtuullisella rahankäytöllä pärjää kyllä hyvin.
+
 ## Minkälainen kulttuuri ja elämäntyyli Boquetessa on?
 
 Täällä on oikeastaan kaksi eri kulttuuria, paikallisten oma ja ulkomaalaisten mukanaan tuoma kulttuuri. Koska erityisesti USA:sta kotoisin olevia on paljon, niin tämä tuntuu usein amerikkalaiselta pikkukylältä (hyvässä mielessä). Tässä hyvä [video](https://youtu.be/MS9jd3REekU?t=845) (linkki vie videon loppupuolelle keskusta-ajeluun, sitä ennen on laitakaupungilla pyörimistä) siitä miltä täällä näyttää. Video on vuodelta 2011, mutta mitään kovin radikaaleja muutoksia ei ole tapahtunut.
