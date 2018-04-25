@@ -1,10 +1,10 @@
 ## Pysyvä oleskelulupa ja kaksoiskansalaisuuden edut
 
-Suomen kansalaiset voivat asua pelkällä turistiviisumilla Panamassa ilman oleskelulupaakin. **Pysyvä oleskelulupa ei siis ole vaatimus tänne muuttamiselle**. Väliaikainen "oleskelulupa" eli turistiviisumi 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin. Kyseistä viisumia ei tarvitse edes etukäteen anoa, eli riittää kun tulet rajalle Suomen passi kourassa, ja saat luvan olla täällä puoli vuotta kerrallaan (ei ylärajaa uusimiselle).
+Suomen kansalaiset voivat asua pelkällä turistiviisumilla Panamassa ilman oleskelulupaakin. **Pysyvä oleskelulupa ei siis ole vaatimus tänne muuttamiselle (eikä Suomen yleisestä verovelvollisuudesta vapautumiselle)**. Väliaikainen "oleskelulupa" eli turistiviisumi 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin. Kyseistä viisumia ei tarvitse edes etukäteen anoa, eli riittää kun tulet rajalle Suomen passi kourassa, ja saat luvan olla täällä puoli vuotta kerrallaan (ei ylärajaa uusimiselle).
 
 Pysyvästä oleskeluluvasta on muutamia selkeitä hyötyjä, ja suosittelemme hakuprosessin aloittamista heti kun olet tehnyt päätöksen että aiot olla täällä pitempään. Oleskeluluvan saamisen jälkeen sitä ei tarvitse enää uusia, riittää kun käyt Panamassa kerran vuodessa etkä syyllisty rikoksiin. Hakuprosessi on suhteellisen nopea sekä suoraviivainen. Siitä aiheutuu jonkin verran kustannuksia (katso luvut alempaa), joten punnitse hyödyt kustannuksia vastaan omalla kohdallasi. Hakuprosessin kustannukset ovat kuitenkin hyvin pienet verrattuna moniin muihin matalan veroasteen maihin.
 
-## Pysyvän oleskeluluvan sekä kaksoiskansalaisuuden edut (5 vuotta oleskeluluvan saamisen jälkeen)
+## Pysyvän oleskeluluvan edut 
 
 ### Henkilökortti
 
@@ -18,7 +18,7 @@ Viiden vuoden jälkeen pysyvän oleskeluluvan saamisesta voit hakea Panaman kans
 
 Pankit vaativat pysyvän oleskeluluvan jos haet täältä esimerkiksi asuntolainaa.
 
-## Kaksoiskansalaisuuden edut
+## Kaksoiskansalaisuuden edut (5 vuotta oleskeluluvan saamisen jälkeen)
 
 ### Aina passi ja paikka mihin mennä, kävi maailmassa miten tahansa
 
