@@ -1,4 +1,4 @@
-# Pitkonäärit-yhteisö
+# Pitkonäärit-yhteisö ja resurssien jakaminen
 
 ## Esittely
 Pitkonäärin Paratiisi -sivusto on tehty tiedon jakamiseen. Tänne Boqueteen saapuvien ihmisten kesken voimme kuitenkin jakaa enemmänkin kuin vain tietoa: voimme esimerkiksi hoitaa keskitetyillä resursseilla kaikenlaiset maahanmuuttokuviot, ilman että jokaisen tarvitsee keksiä pyörää uudelleen.
