@@ -13,7 +13,7 @@ Artikkelin sisältö pähkinänkuoressa hieman yksinkertaistaen:
 
 Panama ei verota ulkomailta ansaittuja ansio- eikä pääomatuloja. Kryptovaluuttojen myynnistä saamasi varat ovat siis verovapaita. Paikallinen ALV on 7%, eikä se koske ruokakaupasta ostettua ruokaa. Maksat siis veroja täällä vain käyttötavaroista. Käytännössä kokonaisveroasteesi jäänee muutaman prosentin luokkaan, riippuen kulutustottumuksistasi. Myös alle $120 000 hintaiset kiinteistöt on vapautettu kiinteistöverosta kokonaan, eli kohtuuhintaisen asunnon tai talon omistamisesta ei tarvitse maksaa veroa. Ja jos vuokraat asunnon/talon (niinkuin ensikertalaisen kannattaa), niin verotus ei vaikuta vuokriin korottavasti.
 
-Tänne muuttaminen on todella yksinkertaista: tarvitset pelkästään Suomen passin, ja saat 6kk turistiviisumin ilman erillistä hakemusta vain kun saavut rajalle. Muuttamisesta on tulossa tarkempaa opastusta, mutta jos ulkomaille muuttaminen on sinulle jo tuttua, niin tänne on erittäin helppo tulla.
+Tänne muuttaminen on todella yksinkertaista: tarvitset pelkästään Suomen passin, ja saat 6kk turistiviisumin ilman erillistä hakemusta kun vain saavut rajalle. Muuttamisesta on tulossa tarkempaa opastusta, mutta jos ulkomaille muuttaminen on sinulle jo tuttua, niin tänne on erittäin helppo tulla. Pysyvä oleskelulupa ei ole pakollinen, mutta sen hankkimisesta voi olla merkittäviä etuja.
 
 ### Yleisen verovelvollisuuden päättyminen Suomeen
 
