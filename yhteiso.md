@@ -68,8 +68,8 @@ Hinta jaettuna kymmenen ihmisen kesken: $2500
 
 Laskennallisia hintoja "Bitcoin-alennuksella", jos olet ostanut/ostat Bitcoineja $10 000/kpl ja Bitcoinin hinta nouseekin auton hankkimiseen mennessä viiteenkymmeneen tuhanteen (kuten disclaimerissa ylempänä todettu: emme ota kantaa tämän hintaskenaarion todennäköisyyteen):
 
-$50000/BTC ja 5 ihmistä: $1000<br>
-$50000/BTC ja 10 ihmistä: $500
+*$50000/BTC ja 5 ihmistä: $1000
+*$50000/BTC ja 10 ihmistä: $500
 
 ### Purjevene
 
