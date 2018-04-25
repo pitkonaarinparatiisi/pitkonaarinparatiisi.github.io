@@ -29,7 +29,7 @@ Huomioi, että verottajaa kiinnostaa aina **asioiden tosiasiallinen laita, ei pe
 
 Tästä on vähän ristiriitaista tietoa, koska näitä papereita ei käytännössä ole tarvinnut, jos muuttaa "yksiselitteisesti" ulkomaille ja asia näkyy verottajalle virallisista rekistereistä (kuten asunnon ja auton myynti). Lakitekstissä kuitenkin lukee että verottajan on **erillisellä päätöksellä** vahvistettava verovelvollisuuden päättyminen, joten emme suosittele pelkästään verottajan hyväntahtoisiin tulkintoihin luottamista. Ne voivat muuttua verottajan yksipuolisella päätöksellä, joten kannattaa hoitaa paperiasiat selkeästi kuntoon.
 
-Kunhan olet saanut itsesi selkeästi ulos Suomesta ja perusasiat kuntoon uudessa kotimaassa, lähetä verohallinnolle seuraavat paperit (tässä on ehkä yksi potentiaalinen muuttuja, siitä lisää myöhemmin... dokumenttilista on kuitenkin verottajalta vahvistettu):
+Kunhan olet saanut itsesi selkeästi ulos Suomesta ja perusasiat kuntoon uudessa kotimaassa, lähetä verohallinnolle seuraavat paperit:
 
 * Asuinpaikkatodistus: tämä hoituu parhaiten jos olet jo saanut pysyvän oleskeluluvan Panamaan. Jos et, niin vaihtoehtoisesti:<br>
 [Certificate of residence and tax liability for the use of Finnish tax authorities (6132f)](https://www.vero.fi/en/About-us/contact-us/forms/descriptions/certificate_of_residence_and_tax_liabil/) - Panaman viranomainen täyttää (hanki paikallinen avustaja).
