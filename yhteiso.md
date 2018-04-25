@@ -11,7 +11,7 @@ Vastaavia asioita on paljon: yksittäisinä hankintoina kalliita asioita, joita 
 
 ### Yhteisö? Jaetut resurssit? Oletteko jotain kommunisteja tai lahkolaisia?
 
-Väärinkäsitysten välttämiseksi lienee paikallaan selventää, että minkäänlaista sosialistista kommuunia tänne ei todellakaan olla rakentamassa. Lähtökohta on se, että jokainen huolehtii itse itsestään, emmekä  tähtää minkäänlaisiin kokeellisiin utopioihin. Pyrimme hyödyntämään jakamistalouden hyviä puolia kapitalistisista lähtökohdista (tällaisessahan ei ole mitään uutta), ja jokainen voi täysin vapaasti valita oman osallistumisasteensa. Jos tuntuu siltä että haluat vaikka omistaa kokonaan oman auton tai asua vapaasti valitsemassasi paikassa, niin se ei ole muilta millään tavalla pois. Elämme omilla rahoillamme, emme toistemme rahoilla. Tämän sivun tarkoitus on vain ja ainoastaan herätellä ideoita siitä, minkälaisia _lisähyötyjä_ yhdessä toimimalla voi saavuttaa.
+Väärinkäsitysten välttämiseksi lienee paikallaan selventää, että minkäänlaista _sosialistista kommuunia tänne ei todellakaan olla rakentamassa_. Lähtökohta on se, että jokainen huolehtii itse itsestään, emmekä  tähtää minkäänlaisiin kokeellisiin utopioihin. Pyrimme hyödyntämään jakamistalouden hyviä puolia kapitalistisista lähtökohdista (tällaisessahan ei ole mitään uutta), ja jokainen voi täysin vapaasti valita oman osallistumisasteensa. Jos tuntuu siltä että haluat vaikka omistaa kokonaan oman auton tai asua vapaasti valitsemassasi paikassa, niin se ei ole muilta millään tavalla pois. **Elämme omilla, emme toistemme rahoilla.** Tämän sivun tarkoitus on vain ja ainoastaan herätellä ideoita siitä, minkälaisia _lisähyötyjä_ yhdessä toimimalla voi saavuttaa.
 
 
 ## Asuinalue
@@ -24,6 +24,8 @@ Jos kiinnostuneita olisi riittävästi, niin voisimme ostaa jostakin vuorten sii
 Sähkökatkoilla ei olisi väliä, jos meillä olisi oma aurinkosähköfarmi. Auringostahan Boquetessa ei ole pulaa ja useamman talouden yhdistämällä saisimme kaikenlaisia volyymietuja.
 
 Myös "luksusosaston" hankinnat ja järjestelyt onnistuisivat lähekkäin asuessa huomattavasti paremmin. Voisimme myös palkata täysipäiväistä henkilökuntaa (siivoojat, kokit, autokuskit, puutarhurit yms) hyvin kohtuullisilla kustannuksilla.
+
+Yksi lisähyöty yhteisestä asuinalueesta on myös suurempi paikkariippumattomuus: talosi vuokraaminen vaikkapa puoleksi vuodeksi helpottuu huomattavasti, kun naapurit voivat auttaa vuokralaisen kanssa ja vahtia taloa.
 
 Boquetessa ei ole elokuvateatteria, joten kaikilla herkuilla varustettu riittävän iso kotiteatteri olisi hyvä idea.
 
