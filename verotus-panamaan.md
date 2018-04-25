@@ -31,7 +31,7 @@ Voit tietenkin käydä Suomessa silloin tällöin lomailemassa, eikä ole syytä
 
 Tästä on vähän ristiriitaista tietoa, koska näitä papereita ei käytännössä ole tarvinnut, jos muuttaa "yksiselitteisesti" ulkomaille ja asia näkyy verottajalle virallisista rekistereistä (kuten asunnon ja auton myynti). Lakitekstissä kuitenkin lukee että verottajan on **erillisellä päätöksellä** vahvistettava verovelvollisuuden päättyminen, joten emme suosittele pelkästään verottajan hyväntahtoisiin tulkintoihin luottamista. Ne voivat muuttua verottajan yksipuolisella päätöksellä, joten kannattaa hoitaa paperiasiat selkeästi kuntoon.
 
-Kunhan olet saanut itsesi selkeästi ulos Suomesta ja perusasiat kuntoon uudessa kotimaassa, lähetä verohallinnolle seuraavat paperit:
+Kunhan olet saanut itsesi selkeästi ulos Suomesta ja perusasiat kuntoon uudessa kotimaassa, huolehdi että saat verohallinnolta vahvistuksen/päätöksen yleisen verovelvollisuutesi päättymisestä. [Verottajan sivuilla](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48999/yleinen_ja_rajoitettu_verovelvollisuu/) on tästä tarkempia tietoja, mutta pähkinänkuoressa tämä lienee yksinkertaisin tapa: "Henkilö voi hakea rajoitettua verovelvollisuutta esittämällä siitä vaatimuksen palautettavalla esitäytetyllä veroilmoituksella." Vaihtoehtoisesti voit hakea erillistä päätöstä, kun olet saanut seuraavat paperit:
 
 * Asuinpaikkatodistus: tämä hoituu parhaiten jos olet jo saanut pysyvän oleskeluluvan Panamaan. Jos et, niin vaihtoehtoisesti:<br>
 [Certificate of residence and tax liability for the use of Finnish tax authorities (6132f)](https://www.vero.fi/en/About-us/contact-us/forms/descriptions/certificate_of_residence_and_tax_liabil/) - Panaman viranomainen täyttää (hanki paikallinen avustaja).
@@ -41,5 +41,7 @@ Kunhan olet saanut itsesi selkeästi ulos Suomesta ja perusasiat kuntoon uudessa
 * Vuokrasopimuksen kopio
 
 * [Lähdeverokortti tai verokortti – ulkomaille muuttava tai siellä asuva henkilö (6207a)](https://www.vero.fi/tietoa-verohallinnosta/yhteystiedot-ja-asiointi/lomakkeet/kuvaus/lahdeverokortti_tai_verokortti__ulkomai/)
+
+Verottajan sivuilla on pidempi lista todistettavista asioista, mutta monet niistä hoituvat rekisterien kautta ilman erillisiä todisteita. Tarkista oma tilanteesi verottajalta.
 
 
