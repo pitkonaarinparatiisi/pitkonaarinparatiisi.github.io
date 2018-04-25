@@ -8,7 +8,7 @@ Suosittelemme hakuprosessin aloittamista heti kun olet tehnyt päätöksen että
 
 ### Henkilökortti
 
-Pysyvän oleskeluluvan saatuasi saat paikallisen henkilökortin joka oikeuttaa maassaoloon ilman passia, eli saat asua täällä vaikka passisi jostain syystä evättäisiin. Kortilla pääsee matkustamaan myös Costa Ricaan.
+Pysyvän oleskeluluvan saatuasi saat paikallisen henkilökortin joka oikeuttaa maassaoloon ilman 6kk välein uusittavaa turistiviisumia (tai vaikka kokonaan ilman Suomen passia). Kortilla pääsee matkustamaan myös Costa Ricaan.
 
 ### Kansalaisuus viiden vuoden kuluttua
 
