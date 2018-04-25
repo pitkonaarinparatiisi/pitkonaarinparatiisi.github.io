@@ -59,9 +59,9 @@ Huom: kirjoittaja yritti selvittää miten autojen verotus kokonaisuudessaan Suo
 
 Veroton hinta: $20 000
 
-Suomi100-juhlahinta: Auton verollinen hinta $30 000 + pääomavero Bitcoinien myynnistä $10200 = $40 200.
+Suomi100-juhlahinta: Auton verollinen hinta $30 000 + pääomavero Bitcoinien myynnistä $10200 = **$40 200**.
 
-Verollinen hinta Panamassa: Auton verollinen hinta n. $25 000, pääomavero Bitcoinien myynnistä $0 = $25 000.
+Verollinen hinta Panamassa: Auton verollinen hinta n. $25 000, pääomavero Bitcoinien myynnistä $0 = **$25 000**.
 
 Hinta jaettuna viiden ihmisen kesken: $5000<br>
 Hinta jaettuna kymmenen ihmisen kesken: $2500
@@ -75,9 +75,9 @@ Laskennallisia hintoja "Bitcoin-alennuksella", jos olet ostanut/ostat Bitcoineja
 
 Veroton hinta: $50 000
 
-Suomi100-juhlahinta: ALV 24% $12 000 + pääomavero Bitcoinien myynnistä $21 080 = $83 000.
+Suomi100-juhlahinta: ALV 24% $12 000 + pääomavero Bitcoinien myynnistä $21 080 = **$83 000**.
 
-Hankintahinta Panamassa: Rekisteröitymismaksu $1000 (+$1000 lisää kahden vuoden välein), verot ilmeisesti 0% (pitää tarkistaa ammattilaisilta) = $51000.
+Hankintahinta Panamassa: Rekisteröitymismaksu $1000 (+$1000 lisää kahden vuoden välein), verot ilmeisesti 0% (pitää tarkistaa ammattilaisilta) = **$51000**.
 
 Hinta jaettuna viiden ihmisen kesken: $10200<br>
 Hinta jaettuna kymmenen ihmisen kesken: $5100
@@ -96,9 +96,9 @@ Ziesel Sport:
 
 Veroton hinta: $30 000
 
-Suomi100-juhlahinta: Alv 24% $7200 + pääomavero 34% $12 468 = $49 848.
+Suomi100-juhlahinta: Alv 24% $7200 + pääomavero 34% $12 468 = **$49 848**.
 
-Verollinen hinta Panamassa: ALV 7% $2100 + tulli (todennäköisesti 10%, vaihtelee välillä 0-15%, tarkka luku pitäisi varmistaa tullista) $3000, pääomavero $0 = $35 100.
+Verollinen hinta Panamassa: ALV 7% $2100 + tulli (todennäköisesti 10%, vaihtelee välillä 0-15%, tarkka luku pitäisi varmistaa tullista) $3000, pääomavero $0 = **$35 100**.
 
 Hinta jaettuna viidelle: $7020<br>
 Hinta jaettuna kymmenelle: $3510
