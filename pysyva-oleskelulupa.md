@@ -1,8 +1,8 @@
 ## Pysyvä oleskelulupa ja kaksoiskansalaisuuden edut
 
-Suomen kansalaiset voivat asua pelkällä turistiviisumilla Panamassa ilman oleskelulupaakin. **Pysyvä oleskelulupa ei siis ole vaatimus tänne muuttamiselle (eikä Suomen yleisestä verovelvollisuudesta vapautumiselle)**. Väliaikainen "oleskelulupa" eli turistiviisumi 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin. Kyseistä viisumia ei tarvitse edes etukäteen anoa, eli riittää kun tulet rajalle Suomen passi kourassa, ja saat luvan olla täällä puoli vuotta kerrallaan (ei ylärajaa uusimiselle).
+Suomen kansalaiset voivat asua pelkällä turistiviisumilla Panamassa ilman oleskelulupaakin. **Pysyvä oleskelulupa ei siis ole vaatimus tänne muuttamiselle (eikä Suomen [yleisestä verovelvollisuudesta vapautumiselle](http://www.pitkonaarinparatiisi.info/verotus-panamaan.html))**. Väliaikainen "oleskelulupa" eli turistiviisumi 6kk kerrallaan kelpaa Panaman valtiolle ihan yhtä hyvin. **Pysyvästä oleskeluluvasta on kuitenkin muutamia selkeitä hyötyjä.**
 
-Pysyvästä oleskeluluvasta on muutamia selkeitä hyötyjä, ja suosittelemme hakuprosessin aloittamista heti kun olet tehnyt päätöksen että aiot olla täällä pitempään. Oleskeluluvan saamisen jälkeen sitä ei tarvitse enää uusia, riittää kun käyt Panamassa kerran vuodessa etkä syyllisty rikoksiin. Hakuprosessi on suhteellisen nopea sekä suoraviivainen. Siitä aiheutuu jonkin verran kustannuksia (katso luvut alempaa), joten punnitse hyödyt kustannuksia vastaan omalla kohdallasi. Hakuprosessin kustannukset ovat kuitenkin hyvin pienet verrattuna moniin muihin matalan veroasteen maihin.
+Suosittelemme hakuprosessin aloittamista heti kun olet tehnyt päätöksen että aiot olla täällä pitempään. Oleskeluluvan saamisen jälkeen sitä ei tarvitse enää uusia, riittää kun käyt Panamassa kerran vuodessa etkä syyllisty rikoksiin. Hakuprosessi on suhteellisen nopea sekä suoraviivainen. Siitä aiheutuu jonkin verran kustannuksia (katso luvut alempaa), joten punnitse hyödyt kustannuksia vastaan omalla kohdallasi. Hakuprosessin kustannukset ovat kuitenkin hyvin pienet verrattuna moniin muihin matalan veroasteen maihin.
 
 ## Pysyvän oleskeluluvan edut 
 
@@ -86,4 +86,3 @@ Tarvitset terveystodistuksen, joka maksaa 25 dollaria ja sen voi hakea paikallis
 Oleskelulupa haetaan oleskelulupahakemuksella, johon laitetaan liitteeksi hankitut dokumentit. Kuukauden päästä saat väliaikaisen henkilökortin, joka oikeuttaa maassaoloon ja 3-4kk päästä saat pysyvän oleskeluluvan. Pysyvän oleskeluluvan säilymisen ehtona on vuosittainen käynti maassa.
 
 Saatuasi oleskeluluvan olet laillisesti Suomen valtiosta vapaa itsenäinen yksilö joka päättää itse omista asioistaan.
-
