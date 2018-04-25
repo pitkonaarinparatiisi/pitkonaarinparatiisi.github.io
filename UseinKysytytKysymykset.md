@@ -32,7 +32,7 @@ Kun meitä tulee tänne enemmän, niin voimme myös nostaa yhteistä turvallisuu
 
 ### Yhteenveto: Turvallisuusasiat on huomioitu ja huomioidaan jatkossakin. 
 
-Ainakaan näiden asioiden takia ei kannata jäädä Suomeen, jossa _menetät käytännössä varmasti suuremman osan omaisuudestasi valtiolle_ kuin täällä huonoimmassakaan (järjenkäytön sisältävässä) skenaariossa rikollisille.
+Ainakaan näiden asioiden takia ei kannata jäädä Suomeen, jossa _menetät lähes varmasti suuremman osan omaisuudestasi valtiolle_ kuin täällä huonoimmassakaan skenaariossa rikollisille. Rikosten uhriksi joutumisen riski täällä voi olla jopa pienempi kuin Suomessa.
 
 ## Eikö siellä vieraassa kulttuurissa ole yksinäistä?
 
