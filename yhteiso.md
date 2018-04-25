@@ -141,3 +141,7 @@ Jos Bitcoinin hinta nousee $50 000 asti, niin kymmenellä Bitcoinilla saa jo oma
 Täytyy myös muistaa että nämä esimerkit ovat hyvin laskennallisia. Käytännössä voi olla, että suoran ostamisen sijaan paras vaihtoehto on hankkiutua aktiivisiin yhteyksiin jo lentokoneita omistavien (ja huoltavien yms) tahojen kanssa, ja sopia esimerkiksi osa-omistuksesta.
 
 Jätetään tarkempien yksityiskohtien selvittäminen myöhempään ajankohtaan, jos Bitcoinin hinta jatkaa nykyisellä radallaan ja kiinnostuneita on riittävästi.
+
+## Helikopteri, lentokoneita, purjeveneitä? Eikö tuo nyt ole pikkuisen liikaa? Tehän olette hulluja!
+
+Hulluutta on asua Suomessa tekemässä suurin osa vuodesta töitä valtion hyväksi (jos protestoit että et tee töitä valtiolle, niin viittaamme tällä veroasteeseen). Jos vapautat itsesi valtion elättämisen ikeestä ja tulet jakamaan näiden hankintojen kustannuksia kanssamme, niin mahdollisuuksien horisonttisi saattaa laajentua merkittävästi.
