@@ -144,4 +144,4 @@ Jätetään tarkempien yksityiskohtien selvittäminen myöhempään ajankohtaan,
 
 ## Helikopteri, lentokoneita, purjeveneitä? Eikö tuo nyt ole pikkuisen liikaa? Tehän olette hulluja!
 
-Hulluutta on asua Suomessa tekemässä suurin osa vuodesta töitä valtion hyväksi (jos protestoit että et tee töitä valtiolle, niin viittaamme tällä veroasteeseen). Jos vapautat itsesi valtion elättämisen ikeestä ja tulet jakamaan näiden hankintojen kustannuksia kanssamme, niin mahdollisuuksien horisonttisi saattaa laajentua merkittävästi.
+Hulluutta on asua Suomessa tekemässä suurin osa vuodesta töitä valtion hyväksi (viittaamme tällä veroasteeseen, emmekä siihen että olisit valtiolla töissä). Jos vapautat itsesi valtion elättämisen ikeestä ja tulet jakamaan näiden hankintojen kustannuksia kanssamme, niin mahdollisuuksien horisonttisi saattaa laajentua merkittävästi.
