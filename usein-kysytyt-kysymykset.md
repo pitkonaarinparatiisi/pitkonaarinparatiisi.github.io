@@ -6,7 +6,7 @@ Ehdottomasti kannattaa. Ei tänne muuttaminen ole rahasta kiinni, kohtuullisella
 
 ## Markkinoitte ajatusta yhteen paikkaan muuttamisesta paikkariippumattomille ihmisille - pieni ristiriita?
 
-Ei siinä oikeastaan ole ristiriitaa. Voit perustaa Boqueteen yhden tukikohdan, ja jatkaa paikkariippumatonta elämää siinä määrin kuin koet itsellesi hyväksi. Paikkariippumattomuushan ei tarkoita sitä, että koko ajan olisi oltava liikkeellä - se tarkoittaa että voit vapaasti valita missä asut. Muiden täällä asuvien avulla voit myös helpommin vuokrata asuntosi eteenpäin, jos haluat lähteä pidemmäksi aikaa reissuun. Yleensähän se ei ole mahdollista, jollet saa luotettavia henkilöitä hoitamaan vuokralaisen satunnaisia vaatimuksia,  mahdollisia korjauksia jne. Täällä sitä ongelmaa ei ole: voit matkustella vapaasti JA pitää pysyvän asunnon.
+Ei siinä oikeastaan ole ristiriitaa. Voit perustaa Boqueteen yhden tukikohdan, ja jatkaa paikkariippumatonta elämää siinä määrin kuin koet itsellesi hyväksi. Paikkariippumattomuushan ei tarkoita sitä, että koko ajan olisi oltava liikkeellä - se tarkoittaa että voit vapaasti valita missä asut. Muiden täällä asuvien avulla voit myös helpommin vuokrata asuntosi eteenpäin, jos haluat lähteä pidemmäksi aikaa reissuun. Yleensähän se ei ole mahdollista, jollet saa luotettavia henkilöitä hoitamaan vuokralaisen satunnaisia vaatimuksia, mahdollisia korjauksia jne. Täällä sitä ongelmaa ei ole: voit matkustella vapaasti JA pitää pysyvän asunnon.
 
 ## Minkälainen kulttuuri ja elämäntyyli Boquetessa on?
 
