@@ -75,7 +75,7 @@ Ennen kuin voit hakea oleskelupaa sinulla täytyy olla todiste osoitteesta tää
 Tarvitset myös todistuksen paikallisesta pankista, että olet taloudellisesti kykeneväinen elämään täällä. Tilin avaus kestää n. 2 viikkoa jonka jälkeen talletat vähintään 5 000 dollaria tilille ja pyydät tiliotteen. Rahoja ei tarvitse jättää tilille makaamaan, eli voit uudelleensijoittaa ne oleskeluluvan saatuasi.
 
 #### Taloudellinen side
-Perustat paikallisen yrityksen, joka toimii todistuksena, että sinulla on taloudelliset siteet maahan. Perustaminen maksaa n. 1 200 dollaria ja kestää muutaman viikon. Varsinaista liiketoimintaa yrityksellä ei tarvitse harjoittaa.
+Perustat paikallisen yrityksen, joka toimii todistuksena, että sinulla on taloudelliset siteet maahan. Perustaminen maksaa n. 1200 dollaria ja kestää muutaman viikon. Varsinaista liiketoimintaa yrityksellä ei tarvitse harjoittaa.
 
 #### Terveystodistus
 
