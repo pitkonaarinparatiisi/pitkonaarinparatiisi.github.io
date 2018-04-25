@@ -28,7 +28,7 @@ Tieto on jaettu seuraaviin sivuihin:
 
 1. [Yleistietoa](yleistietoa.html)
 2. [Oleskelulupa, verovapaus ja kansalaisuus](oleskelulupa.html)
-3. [Muuttaminen](muuttaminen.html)
+3. [Muutto- ja asumiskustannukset](kustannukset.html)
 4. [Yhteisö](yhteiso.html)
 5. [Vastauksia usein kysyttyihin kysymyksiin](UseinKysytytKysymykset.html)
 6. [Kuvia Boquetesta](kuvia.html)
