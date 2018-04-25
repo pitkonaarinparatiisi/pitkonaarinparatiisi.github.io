@@ -34,7 +34,7 @@ Bitcoinista voi ja kannattaa ihmisten kanssa puhua yleisellä tasolla, ja tääl
 
 Kun meitä tulee tänne enemmän, niin voimme myös nostaa yhteistä turvallisuustasoamme eri tavoilla. Olemme jo miettineet näitä asioita paljon, ja yhdessä voimme miettiä lisää. Yksityiskohtien avaamisesta täällä netissä ei ole hyötyä, joten puhutaan niistä sitten tänne tulevien kanssa.
 
-### Yhteenveto: Turvallisuusasiat on huomioitu ja huomioidaan jatkossakin. 
+**Yhteenveto: Turvallisuusasiat on huomioitu ja huomioidaan jatkossakin.**
 
 Ainakaan näiden asioiden takia ei kannata jäädä Suomeen, jossa _menetät lähes varmasti suuremman osan omaisuudestasi valtiolle_ kuin täällä huonoimmassakaan skenaariossa rikollisille. Rikosten uhriksi joutumisen riski täällä voi olla jopa pienempi kuin Suomessa.
 
