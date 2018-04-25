@@ -29,7 +29,7 @@ Tieto on jaettu seuraaviin sivuihin:
 1. [Yleistietoa](yleistietoa.html)
 2. [Suomen verotuksesta vapautuminen muuttamalla Panamaan](verotus-panamaan.html)
 3. [Muutto- ja asumiskustannukset](kustannukset.html)
-4. [Yhteisö](yhteiso.html)
+4. [Yhteisö, sekä jaettavat resurssit ja kustannukset](yhteiso.html)
 5. [Pysyvä oleskelulupa ja kaksoiskansalaisuuden edut](pysyva-oleskelulupa.html)
 6. [Vastauksia usein kysyttyihin kysymyksiin](usein-kysytyt-kysymykset.html)
 7. [Kuvia Boquetesta](kuvia.html)
