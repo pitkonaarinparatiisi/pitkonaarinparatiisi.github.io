@@ -4,6 +4,10 @@
 
 Ehdottomasti kannattaa. Ei tänne muuttaminen ole rahasta kiinni, kohtuullisella rahankäytöllä pärjää hyvin. Ainoa vaatimus on, että pystyt itse rahoittamaan oman elämäsi. Jos olet paikkariippumaton yrittäjä tai vaikka freelancer, niin pystyt hyvin muuttamaan tänne jos tienaat [reilun tonnin kuussa.](http://www.pitkonaarinparatiisi.info/kustannukset.html "Muutto- ja asumiskustannukset Boquetessa") Varsinaisia työpaikkoja täällä ei ole (tai on, mutta palkkataso tuskin riittää sinulle), joten jos haluat tienata täällä paikallisesti, niin esim. turismi-alan yrittäjäksi ryhtyminen voi olla yksi vaihtoehto. Ehdottomasti helpointa kuitenkin on, jos pystyt tuomaan oman tulovirtasi mukanasi.
 
+## Markkinoitte ajatusta yhteen paikkaan muuttamisesta paikkariippumattomille ihmisille - pieni ristiriita?
+
+Ei siinä oikeastaan ole ristiriitaa. Voit perustaa Boqueteen yhden tukikohdan, ja jatkaa paikkariippumatonta elämää siinä määrin kuin koet itsellesi hyväksi. Paikkariippumattomuushan ei tarkoita sitä, että koko ajan olisi oltava liikkeellä - se tarkoittaa että voit vapaasti valita missä asut. Muiden täällä asuvien avulla voit myös helpommin vuokrata asuntosi eteenpäin, jos haluat lähteä pidemmäksi aikaa reissuun. Yleensähän se ei ole mahdollista, jollet saa luotettavia henkilöitä hoitamaan vuokralaisen satunnaisia vaatimuksia,  mahdollisia korjauksia jne. Täällä sitä ongelmaa ei ole: voit matkustella vapaasti JA pitää pysyvän asunnon.
+
 ## Minkälainen kulttuuri ja elämäntyyli Boquetessa on?
 
 Täällä on oikeastaan kaksi eri kulttuuria, paikallisten oma ja ulkomaalaisten mukanaan tuoma kulttuuri. Koska erityisesti USA:sta kotoisin olevia on paljon, niin tämä tuntuu usein amerikkalaiselta pikkukylältä (hyvässä mielessä). Tässä hyvä [video](https://youtu.be/MS9jd3REekU?t=845) (linkki vie videon loppupuolelle keskusta-ajeluun, sitä ennen on laitakaupungilla pyörimistä) siitä miltä täällä näyttää. Video on vuodelta 2011, mutta mitään kovin radikaaleja muutoksia ei ole tapahtunut.
