@@ -45,12 +45,14 @@ Vaikka Panaman passilla ei Suomen passiin verrattuna pääsekään maailmalla ko
 
 ### Kuinka paljon oleskeluluvan hakeminen maksaa?
 
+Tähän kohtaan on tulossa vielä päivityksiä, koska asia ei ole täysin suoraviivainen. Ainakin nämä kustannukset ovat tiedossa:
+
 * Dokumentit Suomesta: 35€
 * Yrityksen perustaminen Panamaan: n. $1200
 * Pankkitilin avaaminen: tarvitset _väliaikaisesti_ 5000 dollaria, sitä lukuunottamatta ilmainen
 * Terveystodistus: $25
 
-Jos haluat hoitaa lupaprosessin avustajan kautta (ei välttämätöntä) niin lisää kustannuksiin avustajan palkkio. Hinnat vaihtelevat, yritämme saada jotain arvioita myöhemmin.
+Näihin täytyy käytännössä lisätä vähintään jonkin verran avustajan (=asianajajan) palkkioita, ja voi olla että avustajan palkkaaminen hoitamaan koko prosessi on järkevintä. Prosessin voinee hoitaa osittain tai ehkä jopa kokonaan yksinkin, mutta tämä voi olla kuluneen ajan ja energian muodossa kalliimpi vaihtoehto. Varaudu siihen, että oleskelulupaprosessiin palaa väkisinkin jonkin verran aikaa ja rahaa. Yritämme saada tästä kunnolliset kokonaisarviot.
 
 ### Suomesta tarvittavat dokumentit
 
@@ -83,6 +85,8 @@ Tarvitset terveystodistuksen, joka maksaa 25 dollaria ja sen voi hakea paikallis
 
 ### Hakeminen
 
-Oleskelulupa haetaan oleskelulupahakemuksella, johon laitetaan liitteeksi hankitut dokumentit. Kuukauden päästä saat väliaikaisen henkilökortin, joka oikeuttaa maassaoloon ja 3-4kk päästä saat pysyvän oleskeluluvan. Pysyvän oleskeluluvan säilymisen ehtona on vuosittainen käynti maassa.
+Oleskelulupa haetaan oleskelulupahakemuksella, johon laitetaan liitteeksi hankitut dokumentit. Ylläoleva lista ei ole täydellinen, koska avustajamme on hoitanut useita dokumentteja itsenäisesti. Jos lähdet hoitamaan prosessia omin päin, niin varaudu siihen että maahanmuuttovirasto vaatii muitakin dokumentteja.
+
+Kuukauden päästä saat väliaikaisen henkilökortin, joka oikeuttaa maassaoloon ja 3-4kk päästä saat pysyvän oleskeluluvan. Pysyvän oleskeluluvan säilymisen ehtona on vuosittainen käynti maassa.
 
 Saatuasi oleskeluluvan olet laillisesti Suomen valtiosta vapaa itsenäinen yksilö joka päättää itse omista asioistaan.
