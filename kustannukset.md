@@ -1,7 +1,5 @@
 # Muuttamisen ja Boquetessa asumisen kustannukset
 
-**Huom! Muuttamiseen vaadittavista paperitöistä, oleskeluluvasta ja Suomen verotuksesta vapautumisesta on [erillinen artikkeli.](http://www.pitkonaarinparatiisi.info/oleskelulupa.html)**
-
 Muuttokustannukset riippuvat monista eri tekijöistä, joten tämän artikkelin tarkoituksena on kuvata yksin muuttavan henkilön todennäköisiä kustannuksia. 
 
 Oletuksena on, että muutat kalustettuun asuntoon lentokoneessa mukana kulkevilla tavaroilla. Jos haluat omat huonekalut mukaan, niin edullisin vaihtoehto on lähettää ne tänne laivakontilla.
@@ -54,4 +52,4 @@ Kalja maksaa kaupassa reilun 1€/litra (~50 dollarisenttiä/tölkki), tiukka vi
 Todennäköisesti sisältyy matkavakuutukseesi. Huomioi kuitenkin että jos aiot "irtisanoa itsesi" pysyvästi Suomen verotuksen piiristä, niin silloin et ole myöskään suomalaisen terveydenhuollon piirissä. Asia hoituu yksityisellä terveysvakuutuksella, n. 100€/kk (perusterveellä nuorehkolla ihmisellä).
 
 ### Viisumi
-Suomen passilla et tarvitse viisumia. Voit oleskella maassa 6kk ilman sen kummempia lupien anomisia. 6kk aikana/jälkeen voit joko hakea pysyvää oleskelulupaa, tai käydä pyörähtämässä visarunilla naapurimaassa ja tulla takaisin taas puoleksi vuodeksi. Toista niin monta kertaa kuin haluat, varsinaista ylärajaa ei ole. Pysyvä oleskelulupa on hyödyllinen, mutta ei pakollinen.
+Suomen passilla et tarvitse viisumia. Voit oleskella maassa 6kk ilman sen kummempia lupien anomisia. 6kk aikana/jälkeen voit joko hakea [pysyvää oleskelulupaa](http://www.pitkonaarinparatiisi.info/pysyva-oleskelulupa.html), tai käydä pyörähtämässä visarunilla naapurimaassa ja tulla takaisin taas puoleksi vuodeksi. Toista niin monta kertaa kuin haluat, varsinaista ylärajaa ei ole. Pysyvä oleskelulupa on hyödyllinen, ei pakollinen.
