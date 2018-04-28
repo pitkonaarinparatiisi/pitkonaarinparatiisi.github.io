@@ -34,6 +34,8 @@ Tieto on jaettu seuraaviin sivuihin:
 6. [Vastauksia usein kysyttyihin kysymyksiin](usein-kysytyt-kysymykset.html)
 7. [Kuvia Boquetesta](kuvia.html)
 
+8. [Bonus: käytännön vinkkejä pankkitilien avaamiseen eri maihin](pankkitili-ulkomailta.html)
+
 Jos haluat lisätietoa tai olet jo tosissasi suunnittelemassa muuttoa, laita sähköpostia <pitkonaarinparatiisi@gmail.com> niin autamme mielellämme!
 
 Tervetuloa Boqueteen hodlaamaan!
