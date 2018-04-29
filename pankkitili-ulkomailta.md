@@ -31,7 +31,7 @@ Georgiassa pankkitilin saa auki aika vähillä vaatimuksilla, käytännössä vu
 
     Jos/kun joku saa tätä kautta pankkitilin auki, niin otamme mielellämme käytännön kokemuksia vastaan. Voit myös käyttää tätä asiaa neuvotteluvalttina yhteydenotoissasi: mahdollisuutesi saada hyvää palvelua nousevat huomattavasti, kun kerrot heti alussa olevasi bloggaaja, ja että jos kokemus sujuu mutkattomasti, niin aiot suositella samaa palvelua muillekin kiinnostuneille. Liioittele lukijamäärää mielesi mukaan :)
 
-    Valitsitpa kumman vaihtoehdon tahansa, niin suosittelemme että avaat tilin [TBC-pankkiin](http://www.tbcbank.ge/web/en/web/guest/personal-banking). Heillä on hyvä nettipankki, ja hommat todistetusti toimivat.
+Valitsitpa kumman vaihtoehdon tahansa, niin suosittelemme että avaat tilin [TBC-pankkiin](http://www.tbcbank.ge/web/en/web/guest/personal-banking). Heillä on hyvä nettipankki, ja hommat todistetusti toimivat.
 
 ## Thaimaa:
 
