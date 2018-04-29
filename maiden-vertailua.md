@@ -26,7 +26,7 @@ Turkin ja Venäjän välissä sijaitseva Georgia on hyvin mielenkiintoinen maa, 
 
 * Maahanmuuttobyrokratia: Niin olematonta kuin voi olla. Suomen passilla saat suoraan oleskeluluvan _vuodeksi_ ilman mitään paperitöitä, uusittavissa loputtomiin.
 
-**Huonot puolet: **
+**Huonot puolet:**
 
 * Kieli: Georgian kieli on erittäin hankala oppia (verrattavissa Thain kieleen), venäjän kielellä pärjää hyvin jos sitä osaa. Englannilla ei oikeastaan pärjää, paitsi satunnaisesti joidenkin nuorempien kanssa. Englantia opetetaan nykyisin Georgian kouluissa, mutta kielitaito ei ole levinnyt laajalle.
 
