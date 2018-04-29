@@ -1,4 +1,4 @@
-# Eikö "kohde x" olisi parempi? Eri maiden hyvien ja huonojen puolien vertailua
+# Eikö joku muu kohde X olisi parempi? Eri maiden hyvien ja huonojen puolien vertailua
 
 Koska olemme matkustelleet paljon ja miettineet hyviä maita pidempiaikaiseen asumiseen, niin jaamme tässä vähän ajatuksiamme eri maiden hyvistä ja huonoista puolista. Potentiaalisia muuttokohteitahan maailmassa riittää, ja keskitymme tässä artikkelissa maihin joita erityisesti kryptoharrastaja tai paikkariippumaton yrittäjä voisi harkita.
 
