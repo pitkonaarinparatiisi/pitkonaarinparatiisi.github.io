@@ -32,9 +32,9 @@ Tieto on jaettu seuraaviin sivuihin:
 4. [Yhteisö, sekä kustannusten ja resurssien jakaminen](yhteiso.html)
 5. [Pysyvä oleskelulupa ja kaksoiskansalaisuuden edut](pysyva-oleskelulupa.html)
 6. [Vastauksia usein kysyttyihin kysymyksiin](usein-kysytyt-kysymykset.html)
-7. [Kuvia Boquetesta](kuvia.html)
-
-8. [Bonus: käytännön vinkkejä pankkitilien avaamiseen eri maihin](pankkitili-ulkomailta.html)
+7. [Maiden vertailua: eri maiden hyviä ja huonoja puolia](maiden-vertailua.html)
+8. [Kuvia Boquetesta](kuvia.html)
+9. [Bonus: käytännön vinkkejä pankkitilien avaamiseen eri maihin](pankkitili-ulkomailta.html)
 
 Jos haluat lisätietoa tai olet jo tosissasi suunnittelemassa muuttoa, laita sähköpostia <pitkonaarinparatiisi@gmail.com> niin autamme mielellämme!
 
