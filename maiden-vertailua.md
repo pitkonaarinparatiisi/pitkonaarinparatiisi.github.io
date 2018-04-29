@@ -64,9 +64,9 @@ Suomalaisten suosikkilomakohde Thaimaa ei erillisiä esittelyjä kaipaa. Thaimaa
 
 * Kieli: Äärimmäisen hankala. Kaikki kielet ovat opittavissa, mutta joudut käyttämään opetteluun paljon aikaa ja vaivaa.
 
-* Ilmasto: Vaikka Thaimaan ilmasto onkin Suomi-turistille mukavaa vaihtelua, niin lyhyen loman "ihanan lämmin" muuttuu ajan kanssa "rasittavan kuumaksi". Korkea ilmankosteus syö elektroniikkaa ja voi lyhentää tietokoneesi elinikää.
+* Ilmasto: Vaikka Thaimaan ilmasto onkin Suomi-turistille mukavaa vaihtelua, niin lyhyen loman "ihanan lämmin" muuttuu helposti ajan kanssa "rasittavan kuumaksi". Korkea ilmankosteus syö elektroniikkaa ja voi lyhentää tietokoneesi elinikää.
 
-**Yhteenveto: Thaimaa on erinomainen turistikohde, ja soveltuu hyvin vähän pidempiinkin oleskeluihin maassa. Pysyvästi sinne muuttaminen vaatii kuitenkin todellista tahtoa ja pitkää vaivannäköä kielen opettelussa. Tavallisen länsimaisen elintason tavoittelu (liharuoat, viini) nostaa hintatasoa nopeasti.**
+**Yhteenveto: Thaimaa on erinomainen turistikohde, ja soveltuu pidempiinkin oleskeluihin maassa. Pysyvästi sinne muuttaminen vaatii kuitenkin todellista tahtoa ja pitkää vaivannäköä kielen opettelussa. Tavallisen länsimaisen elintason tavoittelu (liharuoat, viini) nostaa hintatasoa nopeasti.**
 
 Nyt kun muiden maiden hyviä ja huonoja puolia on vertailtu, niin jätetään paras viimeiseksi:
 
