@@ -19,13 +19,13 @@ Jos olet muuttamassa tänne, tai edes tulossa pidemmäksi aikaa vierailemaan, ni
 Jos et aio muuttaa pois Suomesta, niin ykkössuosituksemme ulkomaisen pankkitilin avaamiseen on Georgia.
 Georgiassa pankkitilin saa auki aika vähillä vaatimuksilla, käytännössä vuokrasopimus riittää. Tässä on oikeastaan kaksi eri vaihtoehtoa: 
 
-1. Menet Georgiaan itse ja järjestät asunnon. 
+* 1: Menet Georgiaan itse ja järjestät asunnon. 
 
 Tämäkin toimii (nimimerkillä kokemusta on), mutta kämpän löytäminen ominpäin voi viedä muutaman viikon. Voit tietenkin aloittaa kämpänmetsästyksen netissä jo Suomessa. Suurin osa Georgialaisista ei puhu englantia, joten tämä rajoittaa toimintamahdollisuuksiasi (jollet osaa Venäjää, jota suurin osa Georgialaisista puhuu). 
 
 Tbilisin vuokrataso on edullinen, ja välittäjiltä saat kämppiä n. viidelläsadalla eurolla kuussa. Paljon halvemmallakin asunnon voi löytää, mutta tässä voi tulla vastaan kommunikaatio-ongelmat: englantia puhuvilla välittäjillä ei ole insentiiviä auttaa sinua, jos he eivät saa välistä omaa osuuttaan, ja tämän takia joudut todennäköisesti maksamaan vähän enemmän. Toinen vaihtoehto on hankkia paikallinen avustaja/kääntäjä, ja netistä näitä varmasti löytyy. Avustajista päästäänkin vaihtoehtoon 2, joka voi olla huomattavasti helpompi, mutta joudut ehkä käyttämään enemmän rahaa.
 
-2. Hyödynnät paikallista apua. 
+* 2: Hyödynnät paikallista apua. 
 
 [Transferwisen artikkelissa](https://transferwise.com/gb/blog/opening-a-bank-account-in-georgia) mainitaan, että paikallisten lakimiesten avulla pankkitilin voisi saada auki jopa ilman käyntiä maassa. Meillä ei ole tästä omakohtaista kokemusta, emmekä tiedä miten todisteet asunnosta hoidetaan. Voi olla, että pankit hyväksyvät ulkomaisen osoitteen, mutta tämä kuulostaa vähän liian hyvältä ollakseen totta. Jos sinulla ei ole paljoa aiempaa yleistä ulkomaankokemusta, niin suosittelemme että otat ensin netin kautta yhteyttä johonkin paikalliseen lakitoimistoon, ja kysyt millä hinnalla saat heiltä apua. Oletettavasti riittävästi maksamalla he hoitavat kaiken puolestasi, mutta hintatasosta meidän on hankala sanoa koska kokemusta tästä vaihtoehdosta ei ole.
 
@@ -37,4 +37,4 @@ Valitsitpa kumman vaihtoehdon tahansa, niin suosittelemme että avaat tilin [TBC
 
 Meillä ei ole omakohtaista kokemusta [Thaimaalaisista pankkitileistä](https://iglu.net/opening-a-bank-account-in-thailand/), mutta olemme kuulleet että pankkitilin siellä saisi auki kohtuullisen helposti. Jos muutenkin vierailet maassa, niinkuin moni tekee, niin kannattaa harkita pankkiasioiden selvittämistä samalla. Jos käyt/asut Chiang Maissa, niin ilmeisesti [Chiang Mai Buddy](https://chiangmaibuddy.com/how-to-get-a-thai-bank-account/) voi auttaa.
 
-Muut vaihtoehdot: otamme mielellämme tietoa vastaan, joten kerro meille kokemuksistasi! Sähköpostia voi lähettää osoitteeseen pitkonaarinparatiisi@gmail.com.
+Muut vaihtoehdot: otamme mielellämme tietoa vastaan, joten kerro meille kokemuksistasi! Sähköpostia voi lähettää osoitteeseen [pitkonaarinparatiisi@gmail.com](mailto:pitkonaarinparatiisi@gmail.com).
