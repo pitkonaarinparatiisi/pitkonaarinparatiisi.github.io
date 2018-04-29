@@ -28,17 +28,11 @@ Turkin ja Venäjän välissä sijaitseva Georgia on hyvin mielenkiintoinen maa, 
 
 **Huonot puolet: **
 
-* Kieli:
+* Kieli: Georgian kieli on erittäin hankala oppia (verrattavissa Thain kieleen), venäjän kielellä pärjää hyvin jos sitä osaa. Englannilla ei oikeastaan pärjää, paitsi satunnaisesti joidenkin nuorempien kanssa. Englantia opetetaan nykyisin Georgian kouluissa, mutta kielitaito ei ole levinnyt laajalle.
 
-Georgian kieli on erittäin hankala oppia (verrattavissa Thain kieleen), venäjän kielellä pärjää hyvin jos sitä osaa. Englannilla ei oikeastaan pärjää, paitsi satunnaisesti joidenkin nuorempien kanssa. Englantia opetetaan nykyisin Georgian kouluissa, mutta kielitaito ei ole levinnyt laajalle.
+* Ilmasto: Tbilisissä on kesällä 35-40 astetta lämmintä n. puolen vuoden ajan, eikä viileämpiä päiviä juuri ole. Niinpä ulkoliikunnan harrastaminen on käytännössä mahdotonta. Vuorilla on viileämpää, mutta siellä palveluita on vähemmän.
 
-* Ilmasto:
-
-Tbilisissä on kesällä 35-40 astetta lämmintä n. puolen vuoden ajan, eikä viileämpiä päiviä juuri ole. Niinpä ulkoliikunnan harrastaminen on käytännössä mahdotonta. Vuorilla on viileämpää, mutta siellä palveluita on vähemmän.
-
-* Ulkomailta tilattavat tavarat:
-
-Netistä tilattavien tavaroiden saaminen Georgiaan voi olla hyvin hankalaa käytännön syistä johtuen. Tbilisistä saa kyllä kohtuullisen hyvin kaikkea tarpeellista, mutta valikoimat eivät kuitenkaan ole täysin länsimaisella tasolla. 
+* Ulkomailta tilattavat tavarat: Netistä tilattavien tavaroiden saaminen Georgiaan voi olla hyvin hankalaa käytännön syistä johtuen. Tbilisistä saa kyllä kohtuullisen hyvin kaikkea tarpeellista, mutta valikoimat eivät kuitenkaan ole täysin länsimaisella tasolla. 
 
 **Yhteenveto: Jos osaat Venäjää, niin Georgia voi olla erinomainen muuttokohde.**
 
