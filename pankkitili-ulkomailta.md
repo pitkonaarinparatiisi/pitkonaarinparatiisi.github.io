@@ -21,9 +21,9 @@ Georgiassa pankkitilin saa auki aika vähillä vaatimuksilla, käytännössä vu
 
 1. Menet Georgiaan itse ja järjestät asunnon.
 
- Tämäkin toimii (nimimerkillä kokemusta on), mutta kämpän löytäminen ominpäin voi viedä muutaman viikon. Voit tietenkin aloittaa kämpänmetsästyksen netissä jo Suomessa. Suurin osa Georgialaisista ei puhu englantia, joten tämä rajoittaa toimintamahdollisuuksiasi (jollet osaa Venäjää, jota suurin osa Georgialaisista puhuu). 
+  Tämäkin toimii (nimimerkillä kokemusta on), mutta kämpän löytäminen ominpäin voi viedä muutaman viikon. Voit tietenkin aloittaa kämpänmetsästyksen netissä jo Suomessa. Suurin osa Georgialaisista ei puhu englantia, joten tämä rajoittaa toimintamahdollisuuksiasi (jollet osaa Venäjää, jota suurin osa Georgialaisista puhuu). 
 
- Tbilisin vuokrataso on edullinen, ja välittäjiltä saat kämppiä n. viidelläsadalla eurolla kuussa. Paljon halvemmallakin asunnon voi löytää, mutta tässä voi tulla vastaan kommunikaatio-ongelmat: englantia puhuvilla välittäjillä ei ole insentiiviä auttaa sinua, jos he eivät saa välistä omaa osuuttaan, ja tämän takia joudut todennäköisesti maksamaan vähän enemmän. Toinen vaihtoehto on hankkia paikallinen avustaja/kääntäjä, ja netistä näitä varmasti löytyy. Avustajista päästäänkin vaihtoehtoon 2, joka voi olla huomattavasti helpompi, mutta joudut ehkä käyttämään enemmän rahaa.
+  Tbilisin vuokrataso on edullinen, ja välittäjiltä saat kämppiä n. viidelläsadalla eurolla kuussa. Paljon halvemmallakin asunnon voi löytää, mutta tässä voi tulla vastaan kommunikaatio-ongelmat: englantia puhuvilla välittäjillä ei ole insentiiviä auttaa sinua, jos he eivät saa välistä omaa osuuttaan, ja tämän takia joudut todennäköisesti maksamaan vähän enemmän. Toinen vaihtoehto on hankkia paikallinen avustaja/kääntäjä, ja netistä näitä varmasti löytyy. Avustajista päästäänkin vaihtoehtoon 2, joka voi olla huomattavasti helpompi, mutta joudut ehkä käyttämään enemmän rahaa.
 
 2. Hyödynnät paikallista apua. 
 
