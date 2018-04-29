@@ -1,6 +1,6 @@
 # Ulkomaisen pankkitilin avaaminen: käytännön vinkkejä eri maihin
 
-Koska suomalaiset pankit vaikuttavat olevan epäluotettavia kryptovaluutoista saatujen eurojen kotiuttamisessa pankkitilille, niin ajattelimme jakaa hieman tietoamme siitä, kuinka ulkomaisten pankkitilien avaaminen käytännössä tapahtuu.
+Koska suomalaiset pankit vaikuttavat olevan [epäluotettavia](https://forum.bittiraha.fi/t/helsingin-op-jaadytti-tilini-myyntivoittoja-koskevien-talletusten-vuoksi) kryptovaluutoista saatujen eurojen kotiuttamisessa pankkitilille, niin ajattelimme jakaa hieman tietoamme siitä, kuinka ulkomaisten pankkitilien avaaminen käytännössä tapahtuu.
 
 **Huom! Tämä artikkeli ei sisällä veronkiertoneuvoja.** [Kansainvälinen verotietojen vaihtojärjestelmä](https://www.youtube.com/watch?v=qZQ-WkM7puI) aiheuttaa nyt (tai tulevaisuudessa) sen, että eri maiden verottajat saavat vaihdettua pankkitietoja keskenään automaattisesti. Varaudu siis siihen, että ulkomaisellekin pankkitilille siirtämäsi rahat päätyvät ennemmin tai myöhemmin oman verotusmaasi (Suomen) verottajan tietoon. Verotietojen vaihto voi tapahtua myös jälkikäteen, eli vanhatkin tiedot voivat näkyä. Jos haluat parantaa omaa taloudellista asemaasi laillisesti, avoimesti ja rehellisesti, niin suosittelemme että harkitset muuttamista [Pitkonäärin Paratiisiin](http://www.pitkonaarinparatiisi.info/).
 
