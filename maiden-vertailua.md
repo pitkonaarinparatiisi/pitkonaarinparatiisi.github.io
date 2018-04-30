@@ -6,7 +6,7 @@ Vaikka maahan asettumisen hintataso (elämisen hinta kaiken huomioiden) on vain 
 
 Meille joita verotuksen taso vielä jonkin verran kiinnostaa, tämä [lista eri maiden verokäytännöistä](https://en.wikipedia.org/wiki/International_taxation) voi olla hyödyllinen. Todennäköisesti haluat harkita maita, jotka eivät verota ulkomailta saatuja tuloja. Näin voit olla kohtuullisen varma, että kryptovoitot ovat verottomia.
 
-Tässä artikkelissa luettelemme vain maita, joissa kryptoverotus on käytännössä nolla (mahdolliset poikkeukset on mainittu erikseen).
+Tässä artikkelissa luetelluissa maissa (Georgia, saksankieliset maat, Malta, Thaimaa) kryptoverotus on käytännössä nolla. Poikkeuksena voi olla lähinnä vuoden sääntö myyntivoittojen iässä joissakin maissa.
 
 ## Georgia
 
