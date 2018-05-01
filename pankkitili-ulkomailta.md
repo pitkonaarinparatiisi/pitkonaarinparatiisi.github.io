@@ -12,7 +12,9 @@ Koska hankaluudet suomalaisten pankkien kanssa johtuvat EU-säädöksistä, niin
 
 ## Panama
 
-Jos olet muuttamassa tänne, tai edes tulossa pidemmäksi aikaa vierailemaan, niin pankkitilin avaaminen ei ole kovin monimutkaista. Meidän kohdallamme neuvojen antamista hankaloittaa vähän se, että olemme hoitaneet ja hoitamassa tänne samalla paljon muitakin paperiasioita, joten _pelkän_ pankkitilin avaamiseen vaadittavista asioista emme vielä osaa täysin tarkkaan sanoa. Pyrimme kuitenkin hankkimaan tarkempaa tietoa. Sen verran voi jo nyt sanoa, että täällä pankkitilin avaamiseen tarvitset suosituskirjeen jostakin nykyisestä pankistasi. Suosituskirjeen saamisen ei pitäisi olla kovin hankalaa, koska pankkisi pitää lähinnä kertoa että olet olemassaoleva henkilö, ja että olet hoitanut raha-asiasi asianmukaisesti. Kirjeen pääasiallinen tarkoitus on toimia tuplavarmistuksena henkilöllisyydestäsi.
+Jos olet muuttamassa tänne, tai edes tulossa pidemmäksi aikaa vierailemaan, niin pankkitilin avaaminen ei ole kovin monimutkaista. Meidän kohdallamme neuvojen antamista hankaloittaa vähän se, että olemme hoitaneet ja hoitamassa tänne samalla paljon muitakin paperiasioita, joten _pelkän_ pankkitilin avaamiseen vaadittavista asioista emme vielä osaa täysin tarkkaan sanoa. Pyrimme kuitenkin hankkimaan tarkempaa tietoa. 
+
+Sen verran voi jo nyt sanoa, että täällä pankkitilin avaamiseen tarvitset suosituskirjeen jostakin nykyisestä pankistasi. Suosituskirjeen saamisen ei pitäisi olla kovin hankalaa, koska pankkisi pitää lähinnä kertoa että olet olemassaoleva henkilö, ja että olet hoitanut raha-asiasi asianmukaisesti. Kirjeen pääasiallinen tarkoitus on toimia tuplavarmistuksena henkilöllisyydestäsi. Pankillasi ei pitäisi olla syytä antamatta kirjettä, koska se ei tuo heille ylimääräisiä riskejä.
 
 ## Georgia
 
