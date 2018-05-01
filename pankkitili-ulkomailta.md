@@ -17,9 +17,7 @@ Jos olet muuttamassa tänne, tai edes tulossa pidemmäksi aikaa vierailemaan, ni
 ## Georgia
 
 Jos et aio muuttaa pois Suomesta, niin ykkössuosituksemme ulkomaisen pankkitilin avaamiseen on Georgia.
-Georgiassa pankkitilin saa auki aika vähillä vaatimuksilla, käytännössä vuokrasopimus riittää. PÄIVITYS: tarkemmalla tutkimisella vaikuttaa, että edes vuokrasopimusta ei välttämättä tarvitsekaan: https://www.sovereignman.com/international-diversification-strategies/meet-the-republic-of-georgia-the-worlds-easiest-country-to-open-an-offshore-bank-account-22616/
-
-Jos näin on, niin siinä tapauksessa tilin avaaminen voi olla erittäin helppoa. Tämä pitäisi kuitenkin testata, koska tuo kuulostaa vähän liiankin helpolta, ja näissä netin englanninkielisissä blogeissa on aina paljon muuttujia. Jos ilmenee että paikallinen osoite pitää olla, niin siinä tapauksessa alla olevat kaksi eri vaihtoehtoa (väliaikaisen) asunnon hankkimisesta ovat tarpeen.
+Georgiassa pankkitilin saa auki aika vähillä vaatimuksilla, käytännössä vuokrasopimus riittää. PÄIVITYS: [tarkemmalla tutkimisella](https://www.sovereignman.com/international-diversification-strategies/meet-the-republic-of-georgia-the-worlds-easiest-country-to-open-an-offshore-bank-account-22616/) vaikuttaa, että edes vuokrasopimusta ei välttämättä tarvitsekaan. Jos näin on, niin siinä tapauksessa tilin avaaminen voi olla erittäin helppoa. Tämä pitäisi kuitenkin testata, koska tuo kuulostaa vähän liiankin helpolta, ja netin englanninkielisissä blogeissa on aina paljon muuttujia. Joskus virallinen totuus vaihtelee sen mukaan, kuka kysyy ja keneltä. Jos ilmenee että paikallinen osoite pitää olla, niin siinä tapauksessa alla olevat kaksi eri vaihtoehtoa (väliaikaisen) asunnon hankkimisesta ovat tarpeen.
 
 1. Menet Georgiaan itse ja järjestät asunnon.
 
