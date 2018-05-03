@@ -41,7 +41,7 @@ Meillä ei ole omakohtaista kokemusta [Thaimaalaisista pankkitileistä](https://
 
 Jos olet muuttamassa tänne, tai edes tulossa pidemmäksi aikaa vierailemaan, niin pankkitilin avaaminen ei ole kovin monimutkaista. Pelkästään pankkitilin hankkimisen takia tänne ei ehkä kannata tulla, koska Georgia on niin paljon helpompi kohde.
 
-Täällä pankkitilin avaamiseen tarvitaan muutamia helposti saatavia suosituksia ja todisteita. Jos olet muuttamassa tänne edes osa-aikaisesti, niin nämä saadaan varmasti järjestymään paikallisella avulla (kohtaa 1 lukuunottamatta, jonka saat helposti Suomesta).
+Täällä pankkitilin avaamiseen tarvitaan muutamia helposti saatavia suosituksia ja todisteita. Jos olet muuttamassa tänne edes osa-aikaisesti, niin nämä saadaan varmasti järjestymään paikallisella avulla.
 
     1. Suosituskirje jostakin nykyisestä pankistasi. Suosituskirjeen saamisen ei pitäisi olla kovin hankalaa, koska pankkisi pitää lähinnä kertoa että olet olemassaoleva henkilö, ja että olet hoitanut raha-asiasi asianmukaisesti. Kirjeen pääasiallinen tarkoitus on toimia tuplavarmistuksena henkilöllisyydestäsi. Pankillasi ei pitäisi olla syytä antamatta kirjettä, koska se ei tuo heille ylimääräisiä riskejä.
     
@@ -49,7 +49,7 @@ Täällä pankkitilin avaamiseen tarvitaan muutamia helposti saatavia suosituksi
     
     3. Todiste riittävästä tulotasosta. Jos olet maksanut Suomeen veroja, niin viralliset verottajan kirjeet (esitäytetty veroilmoitus, verotuspäätös tms) sopivat tähän parhaiten. Jos niitä ei ole esittää tai riittäviä tuloja ei niissä näy, niin muitakin hyväksyttäviä tapoja on. Nämä ovat vähän tapauskohtaisia, joten ota yhteyttä jos olet muuttamassa.
     
-Vaikka pankkitilin avaaminen tänne kuulostaakin vähän byrokraattiselta, niin käytännössä se saadaan hoidettua aika vähällä vaivalla. Siitä on täällä asuessa selkeästi hyötyä, joten pieni vaivannäkö kannattaa.
+Vaikka pankkitilin avaaminen tänne kuulostaakin vähän byrokraattiselta, niin käytännössä se saadaan hoidettua aika vähällä vaivalla. Paikallisesta pankkitilistä on täällä asuessa selkeästi hyötyä, joten pieni vaivannäkö kannattaa.
 
 ## Muut vaihtoehdot
 
