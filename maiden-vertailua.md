@@ -38,7 +38,7 @@ Turkin ja Venäjän välissä sijaitseva Georgia on hyvin mielenkiintoinen maa, 
 
 ## Sveitsi/Saksa/Itävalta
 
-Jos kryptoasioiden takia ei halua muuttaa EU:n ulkopuolelle, niin kohtuullista kryptoverotusta EU:n sisältäkin löytyy. Huomioi kuitenkin että vaikka kryptoverotus sinänsä olisikin näissä maissa nollassa, niin elintaso voi olla muuten kallis EU:n ulkopuolelle muuttamiseen verrattuna. Jos tuntuu että budjettia näissä maissa elämiseen riittää (eikä niissä välttämättä mitenkään Suomea kalliimpaa edes ole), niin kryptovoitot ovat verottomia jos ennen myymistä olet hodlannut vähintään vuoden. Sveitsissä on varallisuusvero joka ehkä periaatteessa saattaa koskea kryptovaluuttoja, mutta tarkista tämä erikseen asiantuntijoilta. 
+Jos kryptoasioiden takia ei halua muuttaa EU:n ulkopuolelle, niin kohtuullista kryptoverotusta EU:n sisältäkin löytyy. Huomioi kuitenkin että vaikka kryptoverotus sinänsä olisikin näissä maissa nollassa, niin elintaso voi olla muuten kallis EU:n ulkopuolelle muuttamiseen verrattuna. Jos tuntuu että budjettia näissä maissa elämiseen riittää (eikä niissä välttämättä mitenkään Suomea kalliimpaa edes ole), niin kryptovoitot ovat verottomia jos ennen myymistä olet hodlannut vähintään vuoden. Sveitsissä on varallisuusvero joka ehkä periaatteessa saattaa koskea kryptovaluuttoja, mutta tarkista tämä erikseen asiantuntijoilta. Muuten kuin kryptovaluuttojen osalta ainakin Saksan verotus on äärimmäisen monimutkainen, joten tutustu asiaan huolella ennen muuttopäätöksen tekemistä.
 
 Muuten näiden kolmen maan hyviä tai huonoja puolia lienee muuten tässä vähän turha listata, omat mielikuvasi lienevät riittävän tarkkoja :)
 
