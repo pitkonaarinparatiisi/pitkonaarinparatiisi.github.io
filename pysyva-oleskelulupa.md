@@ -60,13 +60,13 @@ Sinun tarvitsee hankkia muutama dokumentti Suomesta oleskeluluvan hakemista vart
 
 * Passi, jossa pitää olla vuosi voimassaoloa jäljellä
 * Toinen henkilötodistus kuten ajokortti tai EU-kansalaisen henkilökortti
-* Väestörekisteriote Maistraatista, joka toimii syntymätodistuksena ja asuinpaikkatodistuksena
+* Ote väestötietojärjestelmästä Maistraatista, joka toimii syntymätodistuksena ja asuinpaikkatodistuksena: https://www.suomi.fi/palvelut/verkkoasiointi/53b7184d-b978-4210-83f2-c3beadc2122c
 * Pankkisuosituskirje pankistasi, jota tarvitaan pankkitilin avaamiseen ja mahdollisesti asunnon vuokraamiseen.
 * Rikosrekisteriote, jonka voit hakea osoitteesta <http://www.oikeusrekisterikeskus.fi/fi/index/asiakaspalvelu/rekisteritotteetjatodistukset/rikosrekisteri/yksityisenhenkilontiedonsaantioikeus.html>
 
 Väestörekisteriotteessa ja rikosrekisteriotteessa pitää olla [Apostille-todistus](https://www.maistraatti.fi/fi/Palvelut/julkinen_notaari/Apostille-todistus/). Saat nämä kätevästi Maistraatista samalla kun haet väestörekisteriotteen, joten kannattaa ensimmäisenä tilata rikosrekisteriote joka tulee kotiin postilla noin viikossa ja maksaa 12€.
 
-Väestörekisteriote ja Apostille-todistukset maksavat yhteensä 35€.
+Väestörekisteriote ja Apostille-todistukset maksavat yhteensä 35,5€.
 
 ### Ennen hakemista
 
