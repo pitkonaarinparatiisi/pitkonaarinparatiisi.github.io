@@ -71,3 +71,7 @@ Kaikki on tietenkin henkilökohtaisista mieltymyksistä kiinni. Me olemme oman t
 ## Ok, haluan muuttaa! Haluaisin kuitenkin välillä käydä Suomessa, onko se mahdollista vai rankaiseeko verottaja?
 
 Voit tietenkin käydä välillä Suomessa lomailemassa ja lyhyemmillä vierailuilla. Verottajaa kiinnostaa asioiden tosiasiallinen laita, eli se asutko Suomessa vai ulkomailla. Jos [muutat oikeasti ja pysyvästi Panamaan](http://www.pitkonaarinparatiisi.info/verotus-panamaan.html), niin tilanne on helppo ja selkeä. Jos aiot pitää asunnot Panamassa ja Suomessa, niin todennäköisesti joudut selvittämään verottajalle hyvin tarkkaan mikä tilanteesi on. Varaudu silloin siihen, että et vapaudu ainakaan täysin [yleisestä verovelvollisuudesta](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48999/yleinen_ja_rajoitettu_verovelvollisuu/). Emme ole veroasiantuntijoita, joten tarkista aina oma tilanteesi ammattilaisilta.
+
+## Puhutte kaksoiskansalaisuudesta, mutta Panama ei tunnusta kaksoiskansalaisuutta. Onko teillä asiasta väärää tietoa?
+
+On totta, että virallisesti Panama ei tunnusta kaksoiskansalaisuutta. Käytännössä Panama ei kuitenkaan pakota luopumaan muista kansalaisuuksista myöntäessään omansa, eli kaksoiskansalaisuus on mahdollinen (=sinulla voi olla kaksi aitoa, täysin laillista passia). Kansalaisuus sinänsä ei edes oleellinen Panamaan muuttamisesta saatavien hyötyjen saavuttamiseksi. Kaikki tärkeimmät hyödyt saa pelkästään sillä, kun muuttaa tänne pysyvästi. Pysyvä oleskelulupakin on lähinnä bonus.
