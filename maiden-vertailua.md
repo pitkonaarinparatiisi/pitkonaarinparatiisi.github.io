@@ -84,7 +84,7 @@ Turvallisuus Bulgariassa on hyvä, koska maa ei ota pakolaisia, eikä muutenkaan
 
 * Bulgaria on EU-maa. Muutto Bulgariaan on todella helppoa ja byrokratian tarve on vähäinen. Voit saada kansalaisuuden, mutta silloin pitää luopua Suomen kansalaisuudesta.
 * Koska Bulgaria sijaitsee Euroopassa kulttuurierot ovet pienemmän kuin esim. Panaman tai Georgian kanssa.
-* Todella halpa. Bulgaria on halvin EU maa ja Sofia on EU:n halvin pääkaupunkin. Hinnat ovat keskimäärin 4 kertaa pienemmän kuin Suomessa ja varsinkin palveluiden hinnat ovat todella alhaisia. Esim. taksin hinta on 0,40€ aloitusmaksu sekä 0,40€/km.
+* Todella halpa. Bulgaria on halvin EU maa ja Sofia on EU:n halvin pääkaupunkin. Hinnat ovat keskimäärin 4 kertaa pienemmät kuin Suomessa ja varsinkin palveluiden hinnat ovat todella alhaisia. Esim. taksin hinta on 0,40€ aloitusmaksu sekä 0,40€/km.
 * Vähän viranomaisvalvontaa. Vastoin EU:n määräyksiä Bulgaria ei edelleenkään valvo omia kansalaisiaan ja esim. verojen maksamattajättäminen on todella yleistä. Ulkomailta saaduista tuloista pitää maksaa veroja, mutta käytännössä Bulgaria ei niitä saa selville, ellei käytä paikallista pankkia tai osta rahalla jotain kallista (auto/asunto). Pankkitilin avaaminen onnistuu helposti eikä pankki kysele mistä rahat tulevat.
 * Lämmin ilmasto, mutta myös oikea talvi lumen kanssa ja hyvät mahdollisuuden harrastaa esim. hiihtoa tai laskettelua. Kesällä harvoi ylin +30, talvella harvoin alle -5. Lunta noin 1-2kk vuodessa.
 * Ei tarvitse asua oikeasti Bulgariassa, koska kukaan ei valvo kulkemisia, vaan voi muuttaa mihin tahansa muuhun EU-maahan asumaan.
@@ -93,7 +93,7 @@ Turvallisuus Bulgariassa on hyvä, koska maa ei ota pakolaisia, eikä muutenkaan
 
 **Huonot puolet:**
 
-* Samat kuin Panamassa tai Georgiassa. Kun asioi viranomaisten kanssa kannattaa ottaa oma tulkki mukaan, muuten Englannilla pärjää varsin hyvin. Myös ruoka ei aina maistu koska on erilaista ja välillä on tylsää (vaikka tekemistä löytyisi).
+* Kieli: käytössä kyrilliset kirjaimet, ja kieli on venäjän sukuinen. Jos osaat venäjää, niin tämä on tietenkin etu. Englannilla pärjää kaupoissa ja ravintoloissa, mutta pankissa tai viranomaisten kanssa asioidessa on oltava tulkki mukana.
 
 Nyt kun muiden maiden hyviä ja huonoja puolia on vertailtu, niin jätetään paras viimeiseksi:
 
