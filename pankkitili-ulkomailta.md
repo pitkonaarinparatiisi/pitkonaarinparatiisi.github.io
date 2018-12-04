@@ -15,23 +15,13 @@ Koska hankaluudet suomalaisten pankkien kanssa johtuvat EU-säädöksistä, niin
 ## Georgia
 
 Jos et aio muuttaa pois Suomesta, niin ykkössuosituksemme ulkomaisen pankkitilin avaamiseen on Georgia.
-Georgiassa pankkitilin saa auki aika vähillä vaatimuksilla, käytännössä vuokrasopimus riittää. PÄIVITYS: [tarkemmalla tutkimisella](https://www.sovereignman.com/international-diversification-strategies/meet-the-republic-of-georgia-the-worlds-easiest-country-to-open-an-offshore-bank-account-22616/) vaikuttaa, että edes vuokrasopimusta ei välttämättä tarvitsekaan. Jos näin on, niin siinä tapauksessa tilin avaaminen voi olla erittäin helppoa. Tämä pitäisi kuitenkin testata, koska tuo kuulostaa vähän liiankin helpolta, ja netin englanninkielisissä blogeissa on aina paljon muuttujia. Joskus virallinen totuus vaihtelee sen mukaan, kuka kysyy ja keneltä. 
+Georgiassa pankkitilin saa auki äärimmäisen helposti ja nopeasti. Testasimme prosessin loppuvuodesta 2018, ja ainoa vaadittava asiakirja tilin avaamiseen on passi. Tilin saa auki alle puolessa tunnissa, ja  debit-kortin saa seuraavana päivänä. Verrattuna useisiin muihin maihin, prosessi on suorastaan naurettavan helppo.
 
-Jos ilmenee että paikallinen osoite pitää olla, niin siinä tapauksessa alla olevat kaksi eri vaihtoehtoa (väliaikaisen) asunnon hankkimisesta ovat tarpeen.
+Voi olla, että sinun ei tarvitse edes matkustaa Georgiaan. [Transferwisen artikkelissa](https://transferwise.com/gb/blog/opening-a-bank-account-in-georgia) mainitaan, että paikallisten lakitoimistojen avulla pankkitilin voisi saada auki jopa ilman käyntiä maassa. Jos tahdot testata tätä, niin suosittelemme että otat netin kautta yhteyttä johonkin paikalliseen lakifirmaan, ja kysyt millä hinnalla saat heiltä apua. Hintatasosta meidän on hankala sanoa koska omakohtaista kokemusta tästä vaihtoehdosta meillä ei vielä ole. Hintataso Georgiassa on yleisesti matala. Koska prosessi on henkilökohtaisesti hoitamalla niin yksinkertainen, niin oletettavasti "etäpalvelun" ei pitäisi olla kovin kallis.
 
-1. Menet Georgiaan itse ja järjestät asunnon.
+Jos/kun joku saa pankkitilin etänä auki, niin otamme mielellämme käytännön kokemuksia vastaan. Voit myös käyttää tätä asiaa neuvotteluvalttina yhteydenotoissasi: Mainitse tekeväsi käytännön tutkimusta aihepiiriin liittyvää blogia varten. Kun lupaat julkisen suosituksen jos asiat sujuvat helposti, niin palvelun laatu parantunee huomattavasti :)
 
-    Tämäkin toimii (nimimerkillä kokemusta on), mutta kämpän löytäminen ominpäin voi viedä muutaman viikon. Voit tietenkin aloittaa kämpänmetsästyksen netissä jo Suomessa. Suurin osa Georgialaisista ei puhu englantia, joten tämä rajoittaa toimintamahdollisuuksiasi (jollet osaa Venäjää, jota suurin osa Georgialaisista puhuu). 
-
-    Tbilisin vuokrataso on edullinen, ja välittäjiltä saat kämppiä n. viidelläsadalla eurolla kuussa. Paljon halvemmallakin asunnon voi löytää, mutta tässä voi tulla vastaan kommunikaatio-ongelmat: englantia puhuvilla välittäjillä ei ole insentiiviä auttaa sinua, jos he eivät saa välistä omaa osuuttaan, ja tämän takia joudut todennäköisesti maksamaan vähän enemmän. Toinen vaihtoehto on hankkia paikallinen avustaja/kääntäjä, ja netistä näitä varmasti löytyy. Avustajista päästäänkin vaihtoehtoon 2, joka voi olla huomattavasti helpompi, mutta joudut ehkä käyttämään enemmän rahaa.
-
-2. Hyödynnät paikallista apua. 
-
-    [Transferwisen artikkelissa](https://transferwise.com/gb/blog/opening-a-bank-account-in-georgia) mainitaan, että paikallisten lakitoimistojen avulla pankkitilin voisi saada auki jopa ilman käyntiä maassa. Jos sinulla ei ole paljoa aiempaa yleistä ulkomaankokemusta, niin suosittelemme että otat ensin netin kautta yhteyttä johonkin paikalliseen lakifirmaan, ja kysyt millä hinnalla saat heiltä apua. Oletettavasti riittävästi maksamalla he hoitavat kaiken puolestasi, mutta hintatasosta meidän on hankala sanoa koska omakohtaista kokemusta tästä vaihtoehdosta ei ole. Voi myös olla, että tämä vaihtoehto vaatii yrityksen avaamisen Georgiaan - ei välttämättä iso kynnys, mutta tuo lisää kustannuksia ja säätöä.
-
-    Jos/kun joku saa tätä kautta pankkitilin auki, niin otamme mielellämme käytännön kokemuksia vastaan. Voit myös käyttää tätä asiaa neuvotteluvalttina yhteydenotoissasi: Mainitse tekeväsi käytännön tutkimusta aihepiiriin liittyvää blogia varten. Kun lupaat julkisen suosituksen jos asiat sujuvat helposti, niin palvelun laatu parantunee huomattavasti :)
-
-Valitsitpa kumman vaihtoehdon tahansa, niin suosittelemme että avaat tilin [TBC-pankkiin](http://www.tbcbank.ge/web/en/web/guest/personal-banking). Heillä on hyvä nettipankki, ja hommat todistetusti toimivat.
+Valitsitpa kumman vaihtoehdon tahansa, niin suosittelemme että avaat tilin [TBC-pankkiin](http://www.tbcbank.ge/web/en/web/guest/personal-banking). Heillä on erittäin hyvä nettipankki, ja hommat todistetusti toimivat.
 
 ## Thaimaa:
 
