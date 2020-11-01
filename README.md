@@ -16,18 +16,18 @@ Vero- ja elämänlaatu-optimointia voi tehdä laillisesti monin eri tavoin: joko
 
 ## Vaihtoehtoja
 
-# Bansko
+### Bansko
 
 EU:n sisällä ykkössuosituksemme mahdolliseksi viralliseksi asuinmaaksi on Bulgaria. Vaikka Bulgaria yleisesti saattaakin hieman köyhältä maalta kuulostaa, niin siellä on kuitenkin (ainakin) yksi erittäin hyvä “kansainvälinen” asuinpaikka: **[Bansko](https://en.wikipedia.org/wiki/Bansko)**. Banskossa asuu myös muutamia suomalaisia, ja siellä on hyvin **[aktiivinen nomad-scene](https://coworkingbansko.com)**. Elinkustannukset Banskossa ovat Euroopan halvimpia (tonnilla kuussa elää oikein hyvin), joten suosittelemme tutustumista.
 
-# Nopean toimijan ykkösvaihtoehto: Sark
+### Nopean toimijan ykkösvaihtoehto: Sark
 
 Banskoakin parempi paikka kyllä löytyy, mutta monille teistä muuttamisen pitäisi tapahtua todella nopeasti: ennen 2020 loppua. Aikaa tätä kirjoittaessa on siis vain kaksi kuukautta, mutta kynnelle kykenevien kannattaa todellakin tätä harkita. Englannin kanaalissa on itsenäinen **[saari nimeltä Sark](https://www.swen-lorenz.com/sark-society/)**. Sark ei ole mikään maailman halvin saari, mutta keskituloinenkin pystyy kyllä Sarkissa elämänsä kustantamaan. Veroprosentti ei ole nolla, mutta käytännössä veroista selviää tonnilla tai parilla vuodessa (maksimi on tänä vuonna ilmeisesti £13,500, mutta vain hyvin harva joutuu maksamaan niin paljon). Varsinaisen veron määrääkin parempi tekijä on kuitenkin se, että vero ei määräydy tulojen tai omaisuuden määrän mukaan, vaan se on kiinteästi sidoksissa asuntosi kokoon. Tästä on se merkittävä etu, että yksi suuri “piilovero”, compliance cost eli raportointikustannus, on olematon. Tämä voi olla varsinkin treidaajille merkittävä tekijä.
 
 Veroetujenkin lisäksi Sark vaikuttaa tällä hetkellä mielestämme Euroopan, ja mahdollisesti koko maailman, mielenkiintoisimmalta kohteelta.
 Tärkeintä nopeilla toimijoilla olisi päästä käymään täällä vähintään nopealla reissulla tämän vuoden puolella. Sillä, ja asunnon vuokraamisella (voimme auttaa tässä), saa ns. pre-settled statuksen, joka antaa asumisoikeuden tänne seuraavaksi viideksi vuodeksi. Sen hankkimista kannattaa todellakin harkita, koska ensi vuoteen viivyttelemällä Sarkiin pääsee asumaan EU-passilla ainoastaan hankkimalla viisumin. Koska viisumit myöntää Iso-Britannia, niin se reitti ei ole halpa (minimikustannus n. £50,000 1.1.2021 alkaen). Toimi siis nopeasti!
 
-# Tulevaisuuden mahdollisuudet
+### Tulevaisuuden mahdollisuudet
 
 Pidemmällä tähtäimellä toivomme tietysti, ettei minkäänlainen “jatkuvan muuttamisen” malli olisi pakollinen. Onhan aika erikoinen tilanne, että koko maailma menee niin hulluun suuntaan ettei juuri missään "kehittyneessä" maassa ole enää taloudellisesti järkevää asua. Se tuntuu kuitenkin olevan todellisuutta, valitettavasti. Tähän lääkkeeksi on suunnitteilla useita eri ratkaisuja, joista mielenkiintoisimpana mainitsemme **[Free Private Cities](https://www.freeprivatecities.com/en/)** -mallin. Sen paras puoli on siinä, että se yrittää olla mahdollisimman käytännönläheinen ja minimoida utopistisen haaveilun. Jos ideologia ja käytäntö törmäävät, niin käytäntö jyrää haihattelun. Tällä periaatteella on mahdollista saada aikaan nopeita käytännön tuloksia, ja niinpä ensimmäistä FPC-malliin pohjautuvaa paikkaa ollaan jo rakentamassa: **[Roatán Prospera](https://www.prospera.hn)**. Seuraamme näitä projekteja äärimmäisen suurella mielenkiinnolla!
 
