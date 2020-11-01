@@ -1,4 +1,4 @@
-# Huom! Tämä sivusto on vanhaa tietoa, lue **[päivitetty tilanne](http://www.pitkonaarinparatiisi.info)**.
+# Huom! Tämä sivusto on vanhaa tietoa, lue **[tilanteesta 2020](http://www.pitkonaarinparatiisi.info)**.
 
 ## Mikä ihmeen Pitkonäärin Paratiisi?
 
@@ -41,4 +41,3 @@ Tieto on jaettu seuraaviin sivuihin:
 Jos haluat lisätietoa tai olet jo tosissasi suunnittelemassa muuttoa, laita sähköpostia <pitkonaarinparatiisi@gmail.com> niin autamme mielellämme!
 
 Tervetuloa Boqueteen hodlaamaan!
-
